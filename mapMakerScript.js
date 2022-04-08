@@ -67,7 +67,7 @@ fs.readFile("BlankTexasCountyMap.svg", "utf-8", (err, data) => {
             for(j = 0; j < 254; j++){
                 if (svgCountyName ==  result.svg.g[0].path[j].$.id){
                     marginNeeded = .9;
-                    var winner = Number(countyData[i][6]) - 1;
+                    var winner = Number(countyData[i][countyData[i].length - 1]) - 1;
                     for(colorNumber = 1; colorNumber <= newColors[0].length; colorNumber++){
                         winningPercent = parseFloat(countyData[i][(winner + 1) * 2]) / 100.0 
                         if (winningPercent > marginNeeded){
