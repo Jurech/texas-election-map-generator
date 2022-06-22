@@ -61,7 +61,7 @@ fs.readFile("BlankTexasCountyMap.svg", "utf-8", (err, data) => {
         }
         result.svg.style = newColorString;
 
-        for(i = 0; i < 254; i++){
+        for(i = 0; i < countyData.length - 1; i++){
             var foundCounty = false;
             var svgCountyName = "TX_" + countyData[i][0];
             for(j = 0; j < 254; j++){
