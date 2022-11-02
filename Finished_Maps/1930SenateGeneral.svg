@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 344 336"
+   width="344"
+   height="336"
+   version="1.1"
+   id="svg259"
+   sodipodi:docname="1930SenateGeneral.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs263" />
+  <sodipodi:namedview
+     id="namedview261"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.4166667"
+     inkscape:cx="211.65517"
+     inkscape:cy="158.68965"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <style
+     id="style4">
+		tspan { white-space: pre }
+		.shp0{ fill: #800000;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp1{ fill: #AA0000;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp2{ fill: #D40000;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp3{ fill: #CC2F4A;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp4{ fill: #E27F90;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp5{ fill: #F2B3BE;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp6{ fill: #FFCCD0;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp7{ fill: #002B84;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp8{ fill: #0645B4;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp9{ fill: #1666CB;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp10{ fill: #4389E3;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp11{ fill: #86B6F2;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp12{ fill: #B9D7FF;stroke: #ffffff;stroke-width: 1.034 } 
+		.shp13{ fill: #D3E7FF;stroke: #ffffff;stroke-width: 1.034 } 
+</style>
+  <g
+     id="layer1">
+    <path
+       id="TX_Bowie"
+       class="shp7"
+       d="m 312.38,97.72 0.2,0.51 0.19,0.44 0.16,0.22 1.02,0.65 0.36,0.24 1.34,0.73 2.41,-1.22 0.13,-0.11 0.36,-0.05 1.4,-0.2 2.4,0.48 0.46,0.19 0.6,0.49 0.18,8.46 -0.21,-0.47 -0.52,-0.27 -2.25,-0.36 -0.62,0.14 -0.78,0.27 -0.4,0.71 0.07,0.63 0.08,0.27 -0.05,0.09 -9.39,-0.06 -0.84,-0.16 -0.21,-0.17 -0.06,-0.29 -2.38,-1.77 -0.13,-11.25 6.48,1.86"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Red_River"
+       class="shp7"
+       d="m 295.68,88.72 2.9,2.48 4.25,3.4 3.07,1.26 0.13,11.25 -1.57,-1.03 -7.89,-0.69 -4.5,0.38 -0.05,-0.08 -0.15,-14.76 0.36,-0.05 0.2,-0.02 0.66,-0.43 0.14,-0.13 0.13,-0.3 0.04,-0.31 -0.04,-0.26 v -0.04 l -0.09,-0.2 -0.01,-0.02 0.01,-0.03 v -0.06 l 0.01,-0.04 0.53,-0.8 h 0.02 l 0.02,-0.01 0.08,-0.04 h 0.18 l 1.57,0.53"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Crosby"
+       class="shp7"
+       d="m 137.19,88.19 12.92,0.63 -0.64,13.11 -12.88,-0.64 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Lubbock"
+       class="shp8"
+       d="m 124.28,87.58 12.91,0.61 -0.6,13.1 -12.91,-0.63 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hockley"
+       class="shp7"
+       d="m 111.2,86.69 13.08,0.89 -0.6,13.08 -12.88,-0.83 0.4,-13.14"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Cochran"
+       class="shp7"
+       d="m 100.53,85.94 10.67,0.75 -0.4,13.14 -11.47,-0.82 0.51,-5.47 0.69,-7.6"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Floyd"
+       class="shp7"
+       d="m 140.3,73.85 10.56,0.57 -0.75,14.4 -12.92,-0.63 0.82,-14.48 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hale"
+       class="shp8"
+       d="m 125.11,72.89 2.27,0.15 10.63,0.67 -0.82,14.48 -12.91,-0.61 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Lamb"
+       class="shp8"
+       d="m 112.23,72.03 2.2,0.16 10.68,0.7 -0.83,14.69 -13.08,-0.89 1.03,-14.66"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Bailey"
+       class="shp7"
+       d="m 112.23,72.03 -1.03,14.66 -10.67,-0.75 1.16,-14.34 0.02,-0.32 10.52,0.75"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Briscoe"
+       class="shp2"
+       d="m 141.06,60.77 9.3,0.49 3.56,0.19 -0.71,13.09 -2.35,-0.12 -10.56,-0.57 0.76,-13.08"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Swisher"
+       class="shp8"
+       d="m 128.19,59.96 9.02,0.57 3.85,0.24 -0.76,13.08 -2.29,-0.14 -10.63,-0.67 0.81,-13.08"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Castro"
+       class="shp8"
+       d="m 124.03,59.72 4.16,0.24 -0.81,13.08 -2.27,-0.15 -10.68,-0.7 0.9,-13.04 8.7,0.57"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Parmer"
+       class="shp1"
+       d="m 102.71,58.23 12.62,0.92 -0.9,13.04 -2.2,-0.16 -10.52,-0.75 1,-13.05"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Armstrong"
+       class="shp7"
+       d="m 138.14,47.44 13.03,0.77 -0.81,13.05 -9.3,-0.49 -3.85,-0.24 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Randall"
+       class="shp7"
+       d="m 124.92,46.61 13.22,0.83 -0.93,13.09 -9.02,-0.57 -4.16,-0.24 0.89,-13.11"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Deaf_Smith"
+       class="shp8"
+       d="m 102.71,58.23 0.46,-6.21 0.52,-6.88 4.97,0.35 5.15,0.26 11.11,0.86 -0.89,13.11 -8.7,-0.57 -12.62,-0.92"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Carson"
+       class="shp8"
+       d="m 138.92,34.29 v -0.12 l 12.97,0.69 -0.01,0.19 -0.71,13.16 -13.03,-0.77 0.78,-13.15"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Potter"
+       class="shp8"
+       d="m 125.88,33.48 13.04,0.81 -0.78,13.15 -13.22,-0.83 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Oldham"
+       class="shp7"
+       d="m 125.9,33.26 -0.02,0.22 -0.96,13.13 -11.11,-0.86 -5.15,-0.26 -4.97,-0.35 1,-13.21 21.21,1.33"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hutchinson"
+       class="shp7"
+       d="m 139.67,21.18 12.92,0.73 -0.7,12.95 -12.97,-0.69 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Moore"
+       class="shp7"
+       d="m 126.73,20.39 12.94,0.79 -0.75,12.99 v 0.12 l -13.04,-0.81 0.02,-0.22 0.83,-12.87"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hartley"
+       class="shp2"
+       d="m 105.67,18.92 21.06,1.47 -0.83,12.87 -21.21,-1.33 0.27,-3.5 0.71,-9.51"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hansford"
+       class="shp7"
+       d="m 153.31,8.54 -0.72,13.3 v 0.07 l -12.92,-0.73 0.79,-13.37 12.85,0.73"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Sherman"
+       class="shp7"
+       d="m 130.72,7.19 9.74,0.62 -0.79,13.37 -12.94,-0.79 0.88,-13.4 3.11,0.2"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Dallam"
+       class="shp7"
+       d="m 127.61,6.99 -0.88,13.4 -21.06,-1.47 0.57,-7.91 0.36,-4.82 0.99,-0.59 20.02,1.39"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hudspeth"
+       class="shp12"
+       d="m 49.25,136.63 -0.38,4.22 -0.65,8.14 -1.7,19.76 -0.25,1.77 -0.24,0.87 -0.5,5.13 -1.71,0.89 -0.16,0.13 -1.34,-1.92 -1.99,-2.19 -1.94,-1.68 -1,-0.08 -0.38,-0.14 -3.14,-2 -3.75,-4.31 -4.41,-5.73 -3.39,-4.43 -2.2,-2.83 1.21,-0.99 0.05,-1.65 -0.74,-1.09 1.41,-14.64 27.2,2.77"
+       style="fill:#b9d7ff;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_El_Paso"
+       class="shp8"
+       d="m 22.05,133.86 -1.41,14.64 0.74,1.09 -0.05,1.65 -1.21,0.99 -2.5,-1.11 -0.81,-0.42 -1.32,-1.07 -0.34,-0.27 -0.01,-0.03 -0.09,-0.1 -0.03,-0.04 -0.21,-0.34 -0.68,-2.12 -2.11,-4.9 -0.5,-0.95 -0.87,-0.71 -2.69,-1.25 -1.96,-2.1 -0.24,-0.33 -0.05,-0.13 0.59,-2.59 0.06,-0.22 0.55,-1.28 v -0.01 h 0.01 l 0.08,0.01 5.51,0.58 9.54,1.01"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Lynn"
+       class="shp7"
+       d="m 136.59,101.29 -0.78,13.02 -3.33,-0.22 -9.62,-0.54 0.82,-12.89 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Terry"
+       class="shp8"
+       d="m 110.8,99.83 12.88,0.83 -0.82,12.89 -3.31,-0.19 -9.65,-0.64 0.9,-12.89"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Yoakum"
+       class="shp7"
+       d="m 110.8,99.83 -0.9,12.89 -11.72,-0.86 1.15,-12.85 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Dawson"
+       class="shp7"
+       d="m 122.86,113.55 9.62,0.54 -0.73,13.09 -12.91,-0.74 0.71,-13.08 3.31,0.19"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Gaines"
+       class="shp7"
+       d="m 98.18,111.86 11.72,0.86 9.65,0.64 -0.71,13.08 -0.21,-0.01 -21.42,-1.48 0.97,-13.09"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Martin"
+       class="shp8"
+       d="m 118.63,126.43 0.21,0.01 12.91,0.74 -0.94,13.12 -2.05,-0.11 -10.99,-0.69 0.86,-13.07"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Andrews"
+       class="shp7"
+       d="m 97.21,124.95 21.42,1.48 -0.86,13.07 -1.9,-0.13 -12.94,-0.86 -6.69,-0.53 0.97,-13.03"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Midland"
+       class="shp7"
+       d="m 115.87,139.37 1.9,0.13 10.99,0.69 -0.78,13.04 -12.99,-0.83 0.88,-13.03"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Ector"
+       class="shp7"
+       d="m 115.87,139.37 -0.88,13.03 -0.79,-0.04 -11.4,-0.81 -0.8,-0.05 0.93,-12.99 12.94,0.86"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Crane"
+       class="shp7"
+       d="m 102.8,151.55 11.4,0.81 -0.69,16.92 -2.24,-0.18 -0.81,-3.13 -0.22,-0.58 -0.08,-0.13 -0.32,-0.31 -1.24,-1.07 -0.33,-0.26 -3.14,-1.8 -0.33,0.01 -2.76,0.43 0.76,-10.71"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Presidio"
+       class="shp7"
+       d="m 73.55,186.54 -0.21,3.25 -0.73,9.04 -1.1,14.99 -0.56,6.97 -4.37,-1.43 -1.42,-0.54 -0.16,-0.07 -0.1,-0.08 -0.93,-0.74 -1.88,-1.49 -9,-8.53 -0.5,-1.12 -2.9,-7.28 -0.1,-0.31 -0.09,-2.95 0.4,-2.16 0.2,-2.6 -0.4,-1.72 -4.68,-11.36 -1.36,-0.87 0.16,-0.13 27.15,8.92 2.58,0.21"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Culberson"
+       class="shp7"
+       d="m 51.03,136.8 20.78,1.86 -4.25,26.56 -22.03,11.3 0.5,-5.13 0.24,-0.87 0.25,-1.77 1.7,-19.76 0.65,-8.14 0.38,-4.22 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Ward"
+       class="shp1"
+       d="m 102,151.5 0.8,0.05 -0.76,10.71 -1.82,0.12 -1.09,-1.09 -0.72,-0.64 -0.81,-0.49 -1.6,-0.66 -1.5,0.07 -0.94,-0.02 -0.6,-0.06 -1.3,-0.3 -7.01,-2.32 -0.33,-0.33 -0.29,-0.53 -0.25,-1.5 0.06,-1.8 0.15,-1.02 -0.16,-0.64 -0.42,-0.67 -2,-0.45 7.18,0.58 13.41,0.99"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Winkler"
+       class="shp7"
+       d="m 96.24,137.98 6.69,0.53 -0.93,12.99 -13.41,-0.99 0.84,-10.44 1.49,0.12 1.3,0.09 1.78,0.14 1.43,0.11 0.62,0.05 0.19,-2.6"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Loving"
+       class="shp0"
+       d="m 72.92,138.76 6.49,0.53 10.02,0.78 -0.84,10.44 -7.18,-0.58 -0.54,-1.19 -1.26,-1.82 -0.25,-0.05 -0.5,0.1 -0.02,0.06 -0.06,0.05 -0.24,0.02 -0.55,-0.13 -0.2,-0.26 -3.38,-4.86 -1.49,-3.09"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Reeves"
+       class="shp7"
+       d="m 71.81,138.66 1.11,0.1 1.49,3.09 3.38,4.86 0.2,0.26 0.55,0.13 0.24,-0.02 0.06,-0.05 0.02,-0.06 0.5,-0.1 0.25,0.05 1.26,1.82 0.54,1.19 2,0.45 0.42,0.67 0.16,0.64 -0.15,1.02 -0.06,1.8 0.25,1.5 0.29,0.53 0.33,0.33 7.01,2.32 1.3,0.3 0.6,0.06 0.94,0.02 1.5,-0.07 -16.05,16.93 -12.39,-11.21 4.25,-26.56"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Jeff_Davis"
+       class="shp7"
+       d="m 79.95,176.43 3.48,3.3 -9.88,6.81 -2.58,-0.21 -27.15,-8.92 1.71,-0.89 22.03,-11.3 12.39,11.21"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Brewster"
+       class="shp7"
+       d="m 83.43,179.73 21.15,19.96 6.16,5.72 -1.34,0.86 -3.29,1.49 -4.73,1.14 -0.6,0.36 -0.07,0.04 -3.52,5.74 -2.11,4.9 -7.07,10.49 -1.11,0.3 h -0.19 l -3.06,-0.77 -2.57,-1.22 -8.29,-5.44 -0.24,-0.25 -1.05,-1.08 -0.55,-1.18 0.56,-6.97 1.1,-14.99 0.73,-9.04 0.21,-3.25 9.88,-6.81"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Terrell"
+       class="shp0"
+       d="m 125.94,194.02 -0.99,15.24 -0.46,-0.13 -0.19,-0.07 -2.5,-0.57 -1.58,-0.25 -2.51,0.17 -0.25,0.14 -1.71,-0.33 -5.01,-2.81 -6.16,-5.72 0.49,-6.89 5.77,0.37 0.63,-9.39 3.55,-0.33 1.84,-1.03 9.48,0.67 0.38,-0.04 1.41,0.29 1.03,0.83 0.16,1.89 -0.04,0.26 -2.73,6.58 -0.61,1.12"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Pecos"
+       class="shp7"
+       d="m 102.04,162.26 2.76,-0.43 0.33,-0.01 3.14,1.8 0.33,0.26 1.24,1.07 0.32,0.31 0.08,0.13 0.22,0.58 0.81,3.13 3.49,1.59 5.04,1.57 1.63,0.51 2.6,2.17 2.18,7.37 0.13,0.78 -9.48,-0.67 -1.84,1.03 -3.55,0.33 -0.63,9.39 -5.77,-0.37 -0.49,6.89 -21.15,-19.96 -3.48,-3.3 16.05,-16.93 1.6,0.66 0.81,0.49 0.72,0.64 1.09,1.09 1.82,-0.12"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Upton"
+       class="shp7"
+       d="m 114.2,152.36 0.79,0.04 12.99,0.83 -1.06,17.1 -13.41,-1.05 0.69,-16.92"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Reagan"
+       class="shp7"
+       d="m 127.98,153.23 12.91,0.77 -0.17,2.83 -0.05,0.82 -0.92,13.44 -12.83,-0.76 1.06,-17.1"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Glasscock"
+       class="shp8"
+       d="m 130.81,140.3 10.87,0.63 -0.79,13.07 -12.91,-0.77 0.78,-13.04 2.05,0.11"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Howard"
+       class="shp7"
+       d="m 144.67,127.96 -0.96,13.09 -2.03,-0.12 -10.87,-0.63 0.94,-13.12 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Borden"
+       class="shp7"
+       d="m 135.81,114.31 9.61,0.47 -0.74,13.07 -0.01,0.11 -12.92,-0.78 0.73,-13.09 3.33,0.22"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Garza"
+       class="shp8"
+       d="m 149.47,101.93 -0.68,12.83 -3.37,0.02 -9.61,-0.47 0.78,-13.02 12.88,0.64"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Scurry"
+       class="shp2"
+       d="m 148.79,114.76 9.56,0.69 -0.77,13.14 -12.9,-0.74 0.74,-13.07 3.37,-0.02"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Mitchell"
+       class="shp2"
+       d="m 144.68,127.85 12.9,0.74 -0.76,13.19 -3.95,-0.24 -9.16,-0.49 0.96,-13.09 0.01,-0.11"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Sterling"
+       class="shp7"
+       d="m 141.68,140.93 2.03,0.12 9.16,0.49 -0.69,11.7 -0.89,-0.32 -0.32,4.27 -10.25,-0.36 0.17,-2.83 0.79,-13.07"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Irion"
+       class="shp7"
+       d="m 140.67,157.65 7.04,0.41 7.58,0.51 -0.54,13.09 -7.01,-0.23 -7.99,-0.34 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Crockett"
+       class="shp7"
+       d="m 111.27,169.1 2.24,0.18 13.41,1.05 12.83,0.76 7.99,0.34 -0.54,11.26 -0.65,12.5 -20.61,-1.17 0.61,-1.12 2.73,-6.58 0.04,-0.26 -0.16,-1.89 -1.03,-0.83 -1.41,-0.29 -0.38,0.04 -0.13,-0.78 -2.18,-7.37 -2.6,-2.17 -1.63,-0.51 -5.04,-1.57 -3.49,-1.59"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Val_Verde"
+       class="shp8"
+       d="m 125.94,194.02 20.61,1.17 6.72,0.32 -0.97,19.83 -0.27,5.49 -0.29,2.24 -0.14,0.72 -1.05,2.47 -0.34,0.49 -0.1,0.02 -0.81,-0.15 -6.13,-5.49 -5.14,-6.37 -0.06,-0.17 -3.78,-4.21 -1.3,-0.45 -0.11,-0.01 -3.74,-0.24 -0.59,-0.03 -3.5,-0.39 0.99,-15.24"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Zapata"
+       class="shp7"
+       d="m 182.21,286.94 2.29,-1.54 0.94,1.4 10.15,0.45 -0.43,14.34 -6.08,6.2 -0.39,-1.6 -0.49,-1.94 v -0.03 l -0.8,-2.97 -0.65,-1.64 -1.37,-1.94 -1.51,-0.87 -1.73,-2.69 -0.1,-1.19 0.03,-0.11 0.13,-0.11 0.47,-0.69 0.19,-2.42 -0.34,-2.2 -0.27,-0.43 -0.02,-0.01 -0.02,-0.01"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Jim_Hogg"
+       class="shp8"
+       d="m 199.86,284.87 6.59,0.03 0.79,0.49 -0.09,2.32 0.79,0.91 1.89,5.38 -0.34,8.06 -14.33,-0.47 0.43,-14.34 4.27,-2.38"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Starr"
+       class="shp7"
+       d="m 195.16,301.59 14.33,0.47 2.74,0.09 -2.16,4.61 -2.54,4.9 -2.88,5.86 -1.27,0.18 -1.95,-0.86 -9.14,-4.11 -1.54,-1 -1.57,-3.58 -0.06,-0.21 -0.04,-0.15 6.08,-6.2"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Willacy"
+       class="shp8"
+       d="m 239.18,308.07 0.83,0.02 1.66,5.61 h -0.46 l -2.03,-5.63 m -17.26,-0.63 13.93,0.56 1.52,5.64 -1.05,1.31 -2.93,1.95 -9.04,-1.6 0.04,-2.2 -1.24,-0.4 -2.59,-0.46 0.23,-1.27 0.36,-1.32 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hidalgo"
+       class="shp10"
+       d="m 212.23,302.15 9.05,0.26 0.64,5.03 -0.77,2.21 -0.36,1.32 -0.23,1.27 2.59,0.46 1.24,0.4 -0.04,2.2 -0.17,8.49 -0.18,-0.04 -0.54,-0.09 -2.44,0.03 -0.81,0.01 -0.11,0.14 -0.89,0.35 -3.36,-0.64 -1.97,-0.39 -0.62,-0.34 -0.39,-0.26 -2.88,-1.96 -1.37,-1.64 -0.73,-0.34 -0.06,-0.02 -3.16,-1.08 h -0.02 l 2.88,-5.86 2.54,-4.9 2.16,-4.61"
+       style="fill:#4389e3;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Brooks"
+       class="shp7"
+       d="m 207.15,287.71 7.8,0.27 4.67,0.15 1.91,1.58 -0.25,12.7 -9.05,-0.26 -2.74,-0.09 0.34,-8.06 -1.89,-5.38 -0.79,-0.91"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Kenedy"
+       class="shp7"
+       d="m 238,287.97 h 0.69 l -0.08,0.29 -0.38,1.71 -0.22,1.46 -0.19,1.78 -0.08,1.57 v 1.64 l 0.17,2.47 0.12,1.02 0.02,0.1 0.33,1.89 0.47,2.13 0.83,3.01 0.04,0.12 0.04,0.11 0.25,0.82 -0.83,-0.02 -1.77,-6.56 v -3.71 l 0.02,-3.15 0.02,-1.25 0.04,-1.85 0.11,-1.42 0.13,-0.72 0.27,-1.44 m -16.47,1.74 9.37,-1.88 -0.06,0.23 0.01,0.52 0.11,0.19 0.16,0.12 2.31,0.44 0.6,-0.05 0.29,-0.11 0.18,-0.13 0.08,-0.13 0.41,-0.19 0.93,-0.34 0.71,-0.03 0.04,0.19 -0.64,4.19 -1.14,3.42 -0.78,5.83 1.01,1.34 0.66,3.72 0.07,0.96 -13.93,-0.56 -0.64,-5.03 0.25,-12.7"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Kleberg"
+       class="shp7"
+       d="m 238,287.97 3.47,-8.98 0.7,0.17 -3.48,8.81 H 238 m -15.04,-10.9 1.76,1.14 0.93,1.2 0.23,0.01 13.52,0.16 -1.35,4.72 -0.8,1.94 -0.09,0.17 -0.22,0.25 -0.19,0.11 -2.38,1.22 -3.47,-0.16 -9.37,1.88 -1.91,-1.58 0.2,-11.12 3.14,0.06"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Jim_Wells"
+       class="shp7"
+       d="m 215.43,264.35 9.35,0.23 2.22,1.86 -3.68,3.22 -0.05,3.22 -0.31,4.19 -3.14,-0.06 -0.2,11.12 -4.67,-0.15 0.48,-23.63"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Nueces"
+       class="shp7"
+       d="m 246.96,271.47 -4.79,7.69 -0.7,-0.17 5.35,-7.9 0.14,0.38 m -24,5.6 0.31,-4.19 0.05,-3.22 3.68,-3.22 -0.29,0.71 0.27,1.09 3.52,1.83 0.69,0.32 1.37,0.3 1.9,0.16 0.23,-0.77 4.28,-0.1 1.85,0.1 -0.49,0.08 -1.74,0.8 -0.51,0.36 -0.35,0.71 -0.05,0.93 0.18,0.48 0.46,0.75 0.57,0.49 0.81,0.39 1.32,1.03 -0.83,1.91 -0.79,1.57 -13.52,-0.16 -0.23,-0.01 -0.93,-1.2 -1.76,-1.14"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_San_Patricio"
+       class="shp8"
+       d="m 226.58,261.05 7.34,0.49 7.41,2.76 3.27,5.2 -3.78,0.58 -1.85,-0.1 -4.28,0.1 -0.23,0.77 -1.9,-0.16 -1.37,-0.3 -0.69,-0.32 -3.52,-1.83 -0.27,-1.09 0.29,-0.71 -2.22,-1.86 1.8,-3.53"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Calhoun"
+       class="shp3"
+       d="m 252.78,263.35 0.35,-1.37 5.98,-4.1 0.31,-0.14 1.39,-0.6 2.06,-0.43 0.31,0.55 -2.52,1.24 -0.37,0.17 -0.03,0.03 -1.92,1.19 -1.95,1.4 -1.7,1.33 -2.45,2.12 -0.05,0.05 -0.06,0.06 0.65,-1.5 m 6.75,-17.88 6.75,1.17 0.01,1.01 -1.63,0.76 -2.6,1.06 -2.11,-1.93 -0.24,-0.69 -0.18,-1.38 m -8.26,6.1 -0.39,-0.76 -0.63,-1.62 2.04,-1.43 3.97,-1.36 1.42,-0.78 -0.39,0.35 1.39,3.31 0.07,0.08 1.16,0.22 0.74,0.5 3.07,2.76 0.24,0.24 0.22,0.31 -0.05,0.2 -4.98,2.49 -0.23,0.1 -1.92,0.54 -0.68,-0.22 -0.18,-0.17 -1.7,-1.83 -3.17,-2.93"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Refugio"
+       class="shp9"
+       d="m 244.15,250.11 7.12,1.46 3.17,2.93 -0.58,2.7 -8.82,1.28 0.05,0.61 0.59,0.8 1.02,0.6 0.57,0.09 0.56,0.02 -0.17,0.45 -3.36,2.53 -2.37,1.15 -0.09,-0.01 -0.51,-0.42 -7.41,-2.76 4.49,-6.6 5.74,-4.83"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Bee"
+       class="shp8"
+       d="m 227.9,246.45 2.09,3.8 3.78,2.3 4.64,2.39 -4.49,6.6 -7.34,-0.49 0.25,-0.19 -7.13,-14.42 2.23,-0.77 2.4,-0.82 0.35,0.2 0.21,0.37 0.93,0.51 0.83,0.35 1.25,0.17"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Live_Oak"
+       class="shp7"
+       d="m 219.55,242.73 2.38,2.94 -2.23,0.77 7.13,14.42 -0.25,0.19 -1.8,3.53 -9.35,-0.23 -2.63,-0.06 0.39,-16.51 6.36,-5.05"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_McMullen"
+       class="shp7"
+       d="m 200.91,246.69 12.3,0.16 -0.41,17.44 -12.46,-0.32 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Duval"
+       class="shp7"
+       d="m 200.34,263.97 12.46,0.32 2.63,0.06 -0.48,23.63 -7.8,-0.27 0.09,-2.32 -0.79,-0.49 -6.59,-0.03 0.48,-20.9"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Webb"
+       class="shp8"
+       d="m 163.19,258.44 2.54,0.08 19.08,0.56 -0.05,5.18 15.58,-0.29 -0.48,20.9 -4.27,2.38 -10.15,-0.45 -0.94,-1.4 -2.29,1.54 -0.45,-0.04 -0.58,-0.36 -0.05,-0.02 -0.9,-0.88 -0.12,-0.12 -0.04,-0.06 -0.02,-0.02 -0.03,-0.11 0.12,-0.17 0.75,-1 0.42,-0.99 0.16,-0.58 0.28,-2.23 -0.96,-2.65 -0.55,-0.98 -0.36,-0.26 -1.18,-0.86 -0.61,-0.1 -0.07,0.04 -0.03,0.13 -1.04,-0.04 -4.57,-4.23 -0.83,-0.99 -2.83,-5.71 -2.25,-4.55 -0.13,-0.11 -3.15,-1.61"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_La_Salle"
+       class="shp8"
+       d="m 200.93,246.41 -0.02,0.28 -0.57,17.28 -15.58,0.29 0.05,-5.18 0.42,-12.98 15.7,0.31"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Dimmit"
+       class="shp8"
+       d="m 166.3,245.13 18.59,0.96 0.34,0.01 -0.42,12.98 -19.08,-0.56 0.57,-13.39"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Maverick"
+       class="shp8"
+       d="m 166.94,232.09 -0.64,13.04 -0.57,13.39 -2.54,-0.08 -0.09,-0.1 -1.13,-1.25 -0.84,-1.08 -1.3,-3.99 -3.76,-10.11 -3.36,-7.43 -0.38,-3.01 14.61,0.62"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Kinney"
+       class="shp9"
+       d="m 152.3,215.34 15.31,0.74 -0.67,16.01 -14.61,-0.62 -3.03,-4.85 0.81,0.15 0.1,-0.02 0.34,-0.49 1.05,-2.47 0.14,-0.72 0.29,-2.24 0.27,-5.49"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Edwards"
+       class="shp9"
+       d="m 168.36,196.15 9.37,0.39 -0.35,6.45 -2.28,-0.08 -3.15,-0.37 -1.55,5.68 -0.28,4.32 0.04,3.64 -2.55,-0.1 -15.31,-0.74 0.97,-19.83 15.09,0.64"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Real"
+       class="shp8"
+       d="m 177.38,202.99 1.76,0.07 -0.19,3.92 0.53,1.06 1.72,0.09 -0.32,8.36 -10.72,-0.31 -0.04,-3.64 0.28,-4.32 1.55,-5.68 3.15,0.37 2.28,0.09"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Uvalde"
+       class="shp7"
+       d="m 167.61,216.08 2.55,0.1 10.72,0.31 4.98,0.18 -0.63,15.99 -18.29,-0.57 0.67,-16.01"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Zavala"
+       class="shp7"
+       d="m 185.23,232.66 -0.34,13.43 -18.59,-0.96 0.64,-13.04 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Frio"
+       class="shp7"
+       d="m 201.22,233.21 -0.29,13.2 -15.7,-0.31 -0.34,-0.01 0.34,-13.43 15.99,0.55"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Goliad"
+       class="shp11"
+       d="m 240.45,240.8 1.94,-0.01 0.77,0.36 0.38,0.76 0.5,1.3 0.11,6.9 -5.74,4.83 -4.64,-2.39 -3.78,-2.3 -2.09,-3.8 5.45,-4.24 4.19,-3.27 h 0.17 l 0.69,0.26 1.16,0.65 0.36,0.32 0.53,0.63"
+       style="fill:#86b6f2;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Victoria"
+       class="shp8"
+       d="m 249.19,233.76 0.98,1.23 2.61,1.15 0.17,0.12 1.89,3.73 2.99,5.56 -0.15,0.07 -1.42,0.78 -3.97,1.36 -2.04,1.43 0.63,1.62 0.39,0.76 -7.12,-1.46 -0.11,-6.9 -0.5,-1.3 -0.38,-0.76 -0.77,-0.35 -1.94,0.01 8.74,-7.04"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_DeWitt"
+       class="shp8"
+       d="m 242.38,225.31 6.81,8.45 -8.74,7.04 -0.53,-0.63 -0.36,-0.32 -1.16,-0.65 -0.69,-0.26 h -0.17 l -4.19,3.27 -4.64,-5.85 3.77,-3 9.9,-8.05"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Karnes"
+       class="shp7"
+       d="m 229.52,229.96 2.96,3.4 -3.77,3 4.64,5.85 -5.45,4.24 -1.25,-0.17 -0.83,-0.35 -0.93,-0.51 -0.21,-0.37 -0.35,-0.2 -2.4,0.82 -2.38,-2.94 -2.38,-2.9 12.35,-9.87"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Wilson"
+       class="shp8"
+       d="m 226.68,225.28 2.84,4.68 -12.35,9.87 -5.51,-7.05 7.41,-9.61 0.15,1.54 0.1,0.37 0.22,0.4 0.75,-0.41 6.39,0.21"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Atascosa"
+       class="shp7"
+       d="m 201.36,228.44 10.3,4.34 5.51,7.05 2.38,2.9 -6.36,5.05 0.02,-0.93 -12.3,-0.16 0.02,-0.28 0.29,-13.2 0.14,-4.77"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Medina"
+       class="shp10"
+       d="m 201.7,215.3 -0.34,13.14 -0.14,4.77 -15.99,-0.55 0.63,-15.99 11.15,0.49 0.18,0.28 0.02,0.14 -0.08,0.33 -0.23,0.34 0.01,0.6 0.16,0.36 0.1,0.09 0.1,0.01 1.17,-0.27 3.26,-3.74"
+       style="fill:#4389e3;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Bandera"
+       class="shp10"
+       d="m 181.2,208.13 8.03,0.38 3.02,0.39 1.37,0.71 5.27,2.88 3.55,1.95 -0.74,0.86 -3.26,3.74 -1.17,0.27 -0.1,-0.01 -0.1,-0.09 -0.16,-0.36 -0.01,-0.6 0.23,-0.34 0.08,-0.33 -0.02,-0.14 -0.18,-0.28 -11.15,-0.49 -4.98,-0.18 0.32,-8.36"
+       style="fill:#4389e3;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Kerr"
+       class="shp9"
+       d="m 189.41,197.08 -0.13,4.55 9.87,0.21 -0.26,10.65 -5.27,-2.88 -1.37,-0.71 -3.02,-0.39 -8.03,-0.38 -1.72,-0.09 -0.53,-1.06 0.19,-3.92 -1.76,-0.07 0.35,-6.45 11.68,0.54"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Gillespie"
+       class="shp4"
+       d="m 189.59,190.71 8.76,0.33 9.6,0.24 -0.2,10.79 -8.6,-0.23 -9.87,-0.21 0.31,-10.92"
+       style="fill:#e27f90;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Blanco"
+       class="shp10"
+       d="m 214.18,191.86 5.75,1.92 -1.28,2.07 -3.44,9.43 -3.1,2.92 -4.36,-6.13 0.2,-10.79 z"
+       style="fill:#4389e3;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Kendall"
+       class="shp3"
+       d="m 199.15,201.84 8.6,0.23 4.36,6.13 -6.19,5.59 -3.48,0.65 -3.55,-1.95 z"
+       style="fill:#cc2f4a;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Bexar"
+       class="shp8"
+       d="m 205.92,213.79 2.38,-0.29 0.21,0.01 3.31,0.43 1.61,1.29 1.11,3.29 0.26,0.83 0.74,0.58 1.27,0.4 2.48,1.67 0.04,0.89 -0.26,0.28 -7.41,9.61 -10.3,-4.34 0.34,-13.14 0.74,-0.86 3.48,-0.65"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Guadalupe"
+       class="shp4"
+       d="m 226.06,210.89 6.18,6.34 -5.56,8.05 -6.39,-0.21 -0.75,0.41 -0.22,-0.4 -0.1,-0.37 -0.15,-1.54 0.26,-0.28 -0.04,-0.89 -2.48,-1.67 -1.27,-0.4 -0.74,-0.58 -0.26,-0.83 8.22,-4.53 3.3,-3.1"
+       style="fill:#e27f90;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Comal"
+       class="shp9"
+       d="m 215.21,205.28 6.8,5.82 0.75,2.89 -8.22,4.53 -1.11,-3.29 -1.61,-1.29 -3.31,-0.43 -0.21,-0.01 -2.38,0.29 6.19,-5.59 3.1,-2.92"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hays"
+       class="shp7"
+       d="m 218.65,195.85 11.78,10.16 -1.43,1.28 -3.41,2.82 -0.17,0.79 0.24,0.05 0.4,-0.06 -3.3,3.1 -0.75,-2.89 -6.8,-5.82 3.44,-9.43"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Caldwell"
+       class="shp7"
+       d="m 230.43,206.01 1.56,-1.32 8.57,8.59 -0.05,0.05 -8.27,3.9 -6.18,-6.34 -0.4,0.06 -0.24,-0.05 0.17,-0.79 3.41,-2.82 1.43,-1.28"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Gonzales"
+       class="shp7"
+       d="m 240.51,213.33 4.49,4.74 -1.6,1.4 0.02,2.18 -1.04,3.66 -9.9,8.05 -2.96,-3.4 -2.84,-4.68 5.56,-8.05 8.27,-3.9"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Lavaca"
+       class="shp8"
+       d="m 245,218.07 7.01,-0.06 0.22,0.06 0.49,0.3 1.41,1.32 6.01,7.25 -2.57,2.12 -7.4,5.93 -7.79,-9.68 1.04,-3.66 -0.02,-2.18 1.6,-1.4"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Jackson"
+       class="shp8"
+       d="m 257.57,229.06 0.47,0.48 8.65,8.53 -0.41,8.57 -6.75,-1.17 -1.7,0.08 -2.99,-5.56 -1.89,-3.73 -0.17,-0.12 -2.61,-1.15 7.4,-5.93"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Matagorda"
+       class="shp9"
+       d="m 266.69,238.07 9.04,-5.46 2.38,-2.47 0.62,0.59 0.16,0.16 1.08,3.58 0.67,2.6 0.22,0.74 0.06,0.1 5.18,4.08 0.09,0.05 1.6,0.15 -0.51,0.33 -1.1,0.7 -0.49,0.29 -5.93,3.46 -1.89,0.95 -3.07,1.34 -2.04,0.94 -3.77,1.93 -1.33,0.89 -0.1,0.06 -1.79,1.26 -0.78,0.58 -0.22,0.35 -0.06,-0.22 0.15,-0.25 4.26,-3.2 0.65,-5.5 -0.12,-0.13 -0.18,-0.07 -0.53,0.08 -1.21,0.28 -0.51,0.17 -0.43,0.34 -0.5,0.88 -0.01,-1.01 0.41,-8.57"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Wharton"
+       class="shp7"
+       d="m 272.49,219.04 2.13,5.15 1.49,2.78 1.88,2.08 0.81,0.11 -0.69,0.98 -2.38,2.47 -9.04,5.46 -8.65,-8.53 0.94,-0.53 6.72,-4.22 0.43,-1.24 1.26,-2.55 2.84,-2.93 2.26,0.97"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Colorado"
+       class="shp8"
+       d="m 260.01,208.25 0.88,1.62 1.07,0.96 0.26,0.24 1.64,1.14 0.26,0.13 0.46,0.09 5.01,4.94 0.64,0.7 -2.84,2.93 -1.26,2.55 -0.43,1.24 -6.72,4.22 -0.94,0.53 -0.47,-0.48 2.57,-2.12 -6.01,-7.25 -1.41,-1.32 -0.49,-0.3 -0.22,-0.06 8,-9.76"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Bastrop"
+       class="shp8"
+       d="m 240.34,194.85 3.46,1.99 3.02,2.39 1.42,6.23 -7.68,7.82 -8.57,-8.59 1.14,-1.05 3.04,-3.09 3.27,-6.22 0.9,0.52"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Fayette"
+       class="shp8"
+       d="m 254.23,202.25 0.67,0.58 0.86,-0.17 0.87,-0.31 0.39,-0.2 0.99,0.66 0.38,1.1 0.24,1.18 0.05,0.66 1.33,2.5 -8,9.76 -7.01,0.06 -4.49,-4.74 0.05,-0.05 7.68,-7.82 5.99,-3.21"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Lee"
+       class="shp9"
+       d="m 244.99,193.28 4.97,-2.93 2.99,3.79 2.36,2.73 2.93,1.34 -4.01,4.04 -5.99,3.21 -1.42,-6.23 -3.02,-2.39 -3.46,-1.99 4.65,-1.57"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Austin"
+       class="shp8"
+       d="m 258.68,205.75 0.93,-0.59 7.61,-0.91 0.47,0.09 1.19,0.52 1.28,0.46 0.61,0.04 0.27,-0.33 2.92,10.24 -1.47,3.77 -2.26,-0.97 -0.64,-0.7 -5.01,-4.94 -0.46,-0.09 -0.26,-0.13 -1.64,-1.14 -0.26,-0.24 -1.07,-0.96 -0.88,-1.62 -1.33,-2.5"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Washington"
+       class="shp7"
+       d="m 267.07,195.76 0.29,0.38 0.29,0.21 0.18,0.06 1.41,-0.48 0.44,-0.54 0.18,-0.13 0.34,0.04 0.73,0.76 -0.12,1.19 1.58,3.16 -1.35,4.62 -0.27,0.33 -0.61,-0.04 -1.28,-0.46 -1.19,-0.52 -0.47,-0.09 -7.61,0.91 -0.93,0.59 -0.05,-0.66 -0.24,-1.18 -0.38,-1.1 -0.99,-0.66 -0.39,0.2 -0.87,0.31 -0.86,0.17 -0.67,-0.58 4.01,-4.04 3.82,-0.94 0.75,-0.21 3.92,-1.43 0.23,0.04 0.11,0.09"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Waller"
+       class="shp7"
+       d="m 272.39,200.41 7.48,-0.62 0.04,4.65 -1.39,-0.35 -1.4,-0.78 -0.52,-0.5 -0.77,-0.56 0.36,1.15 3.15,10.06 -5.38,1.81 -2.92,-10.24 1.35,-4.62"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Fort_Bend"
+       class="shp7"
+       d="m 273.96,215.27 5.38,-1.81 10.5,6.17 -0.98,4.22 -3.38,3.38 -0.89,0.46 -2.3,-0.03 -1,-0.36 -1.19,0.51 -1.3,1.35 -0.81,-0.11 -1.88,-2.08 -1.49,-2.78 -2.13,-5.15 1.47,-3.77"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Brazoria"
+       class="shp9"
+       d="m 289.84,219.63 5.42,0.69 -0.41,2.7 3,5.04 1.7,2.86 -1.9,3.42 0.29,0.22 -0.16,0.32 -6.57,5.75 -3.42,1.56 -1.6,-0.15 -0.09,-0.05 -5.18,-4.08 -0.06,-0.1 -0.22,-0.74 -0.67,-2.6 -1.08,-3.58 -0.16,-0.16 -0.62,-0.59 0.69,-0.98 1.3,-1.35 1.19,-0.51 1,0.36 2.3,0.03 0.89,-0.46 3.38,-3.38 0.98,-4.22"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Galveston"
+       class="shp8"
+       d="m 317.33,220.06 -0.78,0.36 -2.32,1.07 -0.18,0.08 -0.11,0.06 -2.09,0.98 -0.33,0.15 -0.94,0.5 -0.17,0.11 -0.53,0.34 -0.32,0.18 -0.09,0.08 -0.3,0.23 -0.22,0.15 -0.11,0.13 -0.07,0.06 -0.19,0.2 -0.06,0.09 -0.23,0.35 -0.11,0.16 -0.12,0.3 -0.06,0.12 -0.79,0.23 -0.45,0.02 -0.09,-0.08 -0.02,-0.36 0.41,-0.53 2.2,-2.35 0.23,-0.17 2,-0.95 1.34,-0.46 0.34,-0.04 0.24,-0.11 -0.13,-0.32 v -0.43 l 4.05,-0.15 m -16.89,0.24 1.2,1.36 4.29,4.6 2.09,0.61 -1.43,1.25 -0.45,0.35 -2.48,1.7 -3.12,2.15 -0.19,0.12 -0.33,0.27 -0.94,0.72 -0.17,0.13 -0.09,0.08 -0.38,0.35 -0.28,0.26 -0.22,0.31 -0.29,-0.22 1.9,-3.42 -1.7,-2.86 -3,-5.04 0.41,-2.7 1.25,1.26 2.61,-1.34 1.32,0.06"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Montgomery"
+       class="shp7"
+       d="m 279.18,188.28 5.98,3.62 2.77,-0.01 1.69,-0.01 1.73,0.11 5.03,4.73 1.83,5.31 -2.61,2.47 -1.69,1.6 -0.77,0.09 -0.45,-0.1 -0.28,-0.6 -0.75,-0.7 -1.89,-1.01 -3.27,-1.74 -1.23,1.07 -1.83,0.87 -1.72,0.34 -0.56,0.05 -1.25,0.07 -0.04,-4.65 -0.69,-11.51"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Harris"
+       class="shp7"
+       d="m 279.91,204.44 1.25,-0.07 0.57,-0.05 1.71,-0.34 1.83,-0.87 1.23,-1.07 3.27,1.74 1.89,1.01 0.75,0.7 0.28,0.6 0.45,0.1 0.77,-0.09 1.69,-1.6 2.61,-2.47 3.11,8.43 1.33,6.22 -2.21,3.62 -1.32,-0.06 -2.61,1.34 -1.25,-1.26 -5.42,-0.69 -10.5,-6.17 -3.15,-10.06 -0.36,-1.15 0.77,0.56 0.52,0.5 1.4,0.78 1.39,0.35"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Chambers"
+       class="shp8"
+       d="m 315.3,210.11 2.2,0.02 0.28,9.34 -0.02,0.39 -0.43,0.2 -4.05,0.15 -5.45,-0.87 0.66,-1.23 0.37,-2.08 0.01,-0.27 -0.08,-0.59 -0.77,-1.52 -0.29,-0.32 -0.14,-0.05 -1.33,0.61 -0.62,0.32 -2.99,2.47 -1.33,-6.22 13.98,-0.35"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hardin"
+       class="shp7"
+       d="m 312.33,191.09 12.22,-0.18 -0.65,1.58 -0.23,0.7 -0.28,1.16 0.07,0.42 0.47,1.07 0.09,0.02 0.26,0.28 -0.47,2.92 -0.27,0.38 0.09,2.41 -0.17,-0.16 -1.91,-0.64 -0.37,0.05 -1.68,0.54 -0.07,0.09 -0.02,0.33 0.06,0.48 -0.07,0.18 -0.34,0.5 -0.19,0.11 -2.62,0.55 -0.41,-0.07 -0.72,-0.38 -3.92,0.09 -3.69,-11.25 4.82,-1.18"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Liberty"
+       class="shp7"
+       d="m 304.5,192.2 3.01,0.07 3.69,11.25 3.92,-0.09 0.18,6.68 -13.98,0.35 -3.11,-8.43 -1.83,-5.3 8.12,-4.53"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Jefferson"
+       class="shp8"
+       d="m 315.12,203.43 0.72,0.38 0.41,0.07 2.62,-0.55 0.19,-0.11 0.34,-0.5 0.07,-0.18 -0.06,-0.48 0.02,-0.33 0.07,-0.09 1.68,-0.54 0.37,-0.05 1.91,0.64 0.17,0.16 0.06,0.37 0.55,1.88 0.07,0.08 3.6,2.35 2.17,0.56 0.33,0.14 0.4,0.62 0.1,0.24 0.05,0.29 -0.05,0.68 0.23,6.68 -2.41,0.39 -0.64,-0.01 -1.19,-0.01 -1.44,0.33 -1.97,0.79 -5.73,2.63 0.02,-0.39 -0.28,-9.34 -2.2,-0.02 -0.18,-6.68"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Orange"
+       class="shp7"
+       d="m 333.92,199.12 -0.02,5.79 -2.99,4.15 0.05,-0.68 -0.05,-0.29 -0.1,-0.24 -0.4,-0.62 -0.33,-0.14 -2.17,-0.56 -3.6,-2.35 -0.07,-0.08 -0.55,-1.88 -0.06,-0.37 -0.09,-2.41 5.59,-0.15 4.79,-0.17"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Travis"
+       class="shp7"
+       d="m 219.93,193.78 2.08,-5.88 2.4,-0.07 1.01,0.72 1.23,1.77 0.45,2.2 0.96,0.8 0.82,0.28 0.59,-0.03 1.75,-0.61 2.41,-1.16 h 0.52 l 1.64,0.52 3.65,2.01 -3.27,6.22 -3.04,3.09 -1.14,1.05 -1.56,1.32 -11.78,-10.16 1.28,-2.07"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Kent"
+       class="shp7"
+       d="m 162.43,102.56 -0.66,13.07 -3.42,-0.18 -9.56,-0.69 0.68,-12.83 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Kimble"
+       class="shp7"
+       d="m 185.17,184.24 -0.24,6.31 4.66,0.16 -0.18,6.37 -11.68,-0.54 -9.37,-0.39 0.56,-12.55 16.25,0.64"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Sutton"
+       class="shp8"
+       d="m 168.92,183.6 -0.56,12.55 -15.09,-0.64 -6.72,-0.32 0.65,-12.5 21.72,0.91"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Schleicher"
+       class="shp1"
+       d="m 154.75,171.66 14.68,0.64 -0.51,11.3 -21.72,-0.91 0.54,-11.26 z"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Menard"
+       class="shp7"
+       d="m 169.43,172.3 13.1,0.55 2.87,4.5 -0.23,6.89 -16.25,-0.64 0.51,-11.3"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Mason"
+       class="shp8"
+       d="m 185.4,177.35 10.07,0.35 3.25,0.69 -0.37,12.65 -8.76,-0.33 -4.66,-0.16 0.24,-6.31 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Llano"
+       class="shp7"
+       d="m 198.72,178.39 13.32,0.37 1.7,2.69 0.11,7.81 0.33,2.6 -6.23,-0.58 -9.6,-0.24 0.37,-12.65"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Burnet"
+       class="shp8"
+       d="m 225.82,175.68 2.05,3.89 -5.86,8.33 -2.08,5.88 -5.75,-1.92 -0.33,-2.6 -0.11,-7.81 -1.7,-2.69 0.23,-3.23 13.55,0.15"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Williamson"
+       class="shp7"
+       d="m 227.87,179.57 4.45,0.99 0.76,0.19 7.89,3.65 4.02,8.88 -4.65,1.57 -0.9,-0.52 -3.65,-2.01 -1.64,-0.52 h -0.52 l -2.41,1.16 -1.75,0.61 -0.59,0.03 -0.82,-0.28 -0.96,-0.8 -0.45,-2.2 -1.23,-1.77 -1.01,-0.72 -2.4,0.07 5.86,-8.33"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Burleson"
+       class="shp7"
+       d="m 258.83,185.23 1.38,1.06 -0.15,0.19 -0.73,1.38 v 0.08 l 2.39,0.57 2.19,1.02 2.78,3.96 0.38,2.27 -0.11,-0.09 -0.23,-0.04 -3.92,1.43 -0.75,0.21 -3.82,0.94 -2.93,-1.34 -2.36,-2.73 -2.99,-3.79 8.87,-5.12"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_San_Jacinto"
+       class="shp7"
+       d="m 292.09,181.36 3.28,1.03 1.77,1.84 6.53,6.26 0.83,1.71 -8.12,4.53 -5.03,-4.74 0.74,-10.63"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Walker"
+       class="shp7"
+       d="m 289.3,175.44 2.79,5.92 -0.74,10.63 -1.73,-0.11 -1.69,0.01 -2.77,0.01 -5.98,-3.62 -0.85,-6.99 6.29,-2.01 4.68,-3.84"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Grimes"
+       class="shp7"
+       d="m 270.49,182.51 7.84,-1.22 0.85,6.99 0.69,11.51 -7.48,0.62 -1.58,-3.16 1.81,-2.69 -0.92,-0.64 -0.19,-0.34 -0.29,-0.54 -1.21,-4.03 0.22,-3.1 0.26,-3.4"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Brazos"
+       class="shp7"
+       d="m 270.49,182.51 -0.26,3.4 -0.22,3.1 1.21,4.03 0.29,0.54 0.19,0.34 0.92,0.64 -1.81,2.69 0.12,-1.19 -0.73,-0.76 -0.34,-0.04 -0.18,0.13 -0.44,0.54 -1.41,0.48 -0.18,-0.06 -0.29,-0.21 -0.29,-0.38 -0.38,-2.27 -2.78,-3.96 -2.19,-1.02 -2.39,-0.57 v -0.08 l 0.73,-1.38 0.15,-0.19 2.85,-1.44 0.7,-1.23 0.51,-1.18 0.57,-1.1 0.7,-1.08 0.32,-0.42 0.42,-0.36 0.76,-0.53 1.05,-0.69 0.54,-0.26 1.86,4.51"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Madison"
+       class="shp7"
+       d="m 268.63,178 1.78,-0.62 2.31,-1.53 2.71,-1.39 5.42,-0.07 3.77,4.89 -6.29,2.01 -7.84,1.22 -1.86,-4.51"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Leon"
+       class="shp8"
+       d="m 281.44,162.1 0.26,0.44 0.48,1.06 1.14,3.26 -0.58,1.46 -0.1,-0.02 -0.22,0.12 -0.58,0.65 -1.29,4.07 0.03,0.39 0.27,0.86 -5.42,0.07 -2.71,1.39 -2.31,1.53 -1.78,0.62 -1.97,-11.5 2.12,-1.68 11.45,-6.14 1.21,3.42"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Robertson"
+       class="shp7"
+       d="m 259.55,170.55 7.11,-4.05 1.97,11.5 -0.54,0.26 -1.05,0.69 -0.76,0.53 -0.42,0.36 -0.32,0.42 -0.7,1.08 -0.57,1.1 -0.51,1.18 -0.7,1.23 -2.85,1.44 -1.38,-1.06 -1.24,-3.11 -2.21,-2.82 -1.49,-4.38 -0.31,-0.97 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Milam"
+       class="shp7"
+       d="m 253.58,173.95 0.31,0.97 1.49,4.38 2.21,2.82 1.24,3.11 -8.87,5.12 -4.97,2.93 -4.02,-8.88 1.51,-4.09 4.89,-2.83 6.21,-3.53"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Bell"
+       class="shp7"
+       d="m 238.57,167.36 3.57,1.25 5.23,8.87 -4.89,2.83 -1.51,4.09 -7.89,-3.65 -0.76,-0.19 -4.45,-0.99 -2.05,-3.89 0.13,-1.03 12.62,-7.29"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Coryell"
+       class="shp8"
+       d="m 233.95,159.26 4.62,8.1 -12.62,7.29 -6.72,-11.97 10.66,-6.04 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Lampasas"
+       class="shp8"
+       d="m 216.88,164.05 2.35,-1.37 6.72,11.97 -0.13,1.03 -13.55,-0.15 -2.98,-6.1 7.59,-5.38"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Mills"
+       class="shp9"
+       d="m 212.17,155.91 4.71,8.14 -7.59,5.38 -0.06,-0.36 -0.97,-2.12 -3.36,-2.95 -0.82,0.77 -4.95,-1.86 -0.66,-0.87 0.1,-0.53 1.31,-0.83 4.19,-2.8 0.58,-2.3 2.33,-0.31 5.19,0.64"
+       style="fill:#1666cb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_San_Saba"
+       class="shp7"
+       d="m 198.57,161.51 -0.1,0.53 0.66,0.87 4.95,1.86 0.82,-0.77 3.36,2.95 0.97,2.12 0.06,0.36 2.99,6.1 -0.24,3.23 -13.32,-0.37 -3.25,-0.69 0.55,-15.58 2.55,-0.61"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_McCulloch"
+       class="shp7"
+       d="m 193.16,161.84 2.86,0.28 -0.55,15.58 -10.07,-0.35 -2.87,-4.5 0.49,-12.12 1.66,0.33 2.31,0.35 4.92,0.13 1.25,0.3"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Concho"
+       class="shp7"
+       d="m 180.07,158.07 2.95,2.66 -0.49,12.12 -13.1,-0.55 0.74,-14.74 9.9,0.51"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Tom_Green"
+       class="shp7"
+       d="m 152.18,153.24 14.97,0.8 3.02,3.52 -0.74,14.74 -14.68,-0.64 0.54,-13.09 -7.58,-0.51 -7.04,-0.41 0.05,-0.82 10.25,0.36 0.32,-4.27 0.89,0.32"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Coke"
+       class="shp7"
+       d="m 152.87,141.54 3.95,0.24 10.87,0.59 -0.54,11.67 -14.97,-0.8 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Runnels"
+       class="shp8"
+       d="m 169.8,142.46 11.06,0.48 -0.79,15.13 -9.9,-0.51 -3.02,-3.52 0.54,-11.67 2.11,0.09"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Coleman"
+       class="shp7"
+       d="m 182.95,143.04 11.01,0.46 -0.8,18.34 -1.25,-0.3 -4.92,-0.13 -2.31,-0.35 -1.66,-0.33 -2.95,-2.66 0.79,-15.13 2.09,0.1"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Brown"
+       class="shp7"
+       d="m 195.92,143.56 4.91,0.2 6.15,11.51 -2.33,0.31 -0.58,2.3 -4.19,2.8 -1.31,0.83 -2.55,0.61 -2.86,-0.28 0.8,-18.34 1.96,0.06"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Comanche"
+       class="shp2"
+       d="m 210.41,138.53 5.41,9.75 1.96,-1.12 1.05,1.9 1.25,2.3 -7.91,4.55 -5.19,-0.64 -6.15,-11.51 z"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hamilton"
+       class="shp8"
+       d="m 218.83,149.06 5.21,-2.9 5.85,10.48 -10.66,6.04 -2.35,1.37 -4.71,-8.14 7.91,-4.55 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Bosque"
+       class="shp8"
+       d="m 234.01,140.78 3.5,0.96 -0.28,1.85 -0.18,1.56 0.13,1.27 4.02,7.24 0.31,0.47 0.84,0.52 -8.4,4.61 -4.06,-2.62 -5.85,-10.48 3.59,-2.01 6.38,-3.37"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Falls"
+       class="shp2"
+       d="m 254.4,161.47 5.15,9.08 -5.97,3.4 -6.21,3.53 -5.23,-8.87 12.26,-7.14"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_McLennan"
+       class="shp7"
+       d="m 251.11,155.86 3.29,5.61 -12.26,7.14 -3.57,-1.25 -4.62,-8.1 8.4,-4.61 6.15,-3.45 2.61,4.66"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hill"
+       class="shp7"
+       d="m 237.51,141.74 9.88,-2.63 4.75,5.8 4.42,7.82 -5.45,3.13 -2.61,-4.66 -6.15,3.45 -0.84,-0.52 -0.31,-0.47 -4.02,-7.24 -0.13,-1.27 0.18,-1.56 0.28,-1.85"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Limestone"
+       class="shp7"
+       d="m 256.56,152.73 5.64,0.59 6.58,11.5 -2.12,1.68 -7.11,4.05 -5.15,-9.08 -3.29,-5.61 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Freestone"
+       class="shp8"
+       d="m 273.48,147.05 -0.23,1.4 2.25,4.18 1.62,1.63 0.86,0.32 2.03,2.39 0.22,1.71 -11.45,6.14 -6.58,-11.5 11.23,-6.47 0.05,0.2"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Navarro"
+       class="shp7"
+       d="m 252.14,144.91 13,-7.56 2.37,1.1 1.39,1.26 0.89,1.08 2.15,2.59 1.17,1.75 0.32,1.72 -11.23,6.47 -5.64,-0.59 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Somervell"
+       class="shp8"
+       d="m 225.68,139.73 8.39,-2.41 -0.06,3.46 -6.38,3.37 -1.95,-4.42"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Ellis"
+       class="shp1"
+       d="m 247.47,130.58 1.23,0.04 12.79,0.22 1.93,5.6 1.72,0.91 -13,7.56 -4.75,-5.8 0.08,-8.53"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Johnson"
+       class="shp8"
+       d="m 234.14,130.22 1.67,0.03 11.66,0.33 -0.08,8.53 -9.88,2.63 -3.5,-0.96 0.06,-3.46 0.07,-7.1"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hood"
+       class="shp8"
+       d="m 222.84,129.89 11.3,0.33 -0.07,7.1 -8.39,2.41 -2.92,-8.41 0.08,-1.43"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Erath"
+       class="shp8"
+       d="m 222.76,131.32 2.92,8.41 1.95,4.42 -3.59,2.01 -5.21,2.9 -1.05,-1.9 -1.96,1.12 -5.41,-9.75 2.12,-7.51 10.23,0.3"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Eastland"
+       class="shp1"
+       d="m 196.91,130.51 13.07,0.39 2.55,0.12 -2.12,7.51 -9.58,5.23 -4.91,-0.2 0.53,-13.07 0.46,0.02"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Callahan"
+       class="shp7"
+       d="m 183.93,130.06 12.52,0.43 -0.53,13.07 -1.96,-0.06 -11.01,-0.46 0.55,-13 0.43,0.02"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Taylor"
+       class="shp7"
+       d="m 183.5,130.04 -0.55,13 -2.09,-0.1 -11.06,-0.48 0.71,-13.2 12.99,0.78"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Nolan"
+       class="shp7"
+       d="m 170.51,129.26 -0.71,13.2 -2.11,-0.09 -10.87,-0.59 0.76,-13.19 12.93,0.67"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Fisher"
+       class="shp7"
+       d="m 161.77,115.63 9.37,0.52 -0.63,13.11 -12.93,-0.67 0.77,-13.14 3.42,0.18"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Jones"
+       class="shp7"
+       d="m 171.14,116.15 3.88,0.16 9.42,0.47 -0.51,13.28 -0.43,-0.02 -12.99,-0.78 0.63,-13.11"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Shackelford"
+       class="shp7"
+       d="m 184.44,116.78 3.52,0.13 9.38,0.32 -0.43,13.28 -0.46,-0.02 -12.52,-0.43 0.51,-13.28"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Stephens"
+       class="shp8"
+       d="m 200.97,117.35 9.39,0.35 -0.38,13.2 -13.07,-0.39 0.43,-13.28 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Palo_Pinto"
+       class="shp8"
+       d="m 214.13,116.19 9.26,0.36 -0.55,13.34 -0.08,1.43 -10.23,-0.3 -2.55,-0.12 0.38,-13.2 3.77,-1.51"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Parker"
+       class="shp7"
+       d="m 223.39,116.55 3.36,0.13 9.44,0.38 -0.38,13.19 -1.67,-0.03 -11.3,-0.33 0.55,-13.34"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Tarrant"
+       class="shp8"
+       d="m 236.19,117.06 3.64,0.18 9.16,0.28 -0.29,13.1 -1.23,-0.04 -11.66,-0.33 0.38,-13.19"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Dallas"
+       class="shp8"
+       d="m 248.99,117.52 4.69,-0.04 8.2,0.22 -0.08,5.06 -0.31,8.08 -12.79,-0.22 0.29,-13.1"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Rockwall"
+       class="shp7"
+       d="m 267.38,117.74 -0.01,4.2 -5.57,0.82 0.08,-5.06 5.5,0.04"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Kaufman"
+       class="shp7"
+       d="m 267.37,121.94 5.52,0.11 0.01,14.45 -9.48,-0.06 -1.93,-5.6 0.31,-8.08 5.57,-0.82"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Rains"
+       class="shp8"
+       d="m 278.25,117.81 4.94,0.57 0.77,7.21 -7.5,-3.5 z"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Van_Zandt"
+       class="shp1"
+       d="m 276.46,122.09 7.5,3.5 1.03,1 0.04,6.22 3.1,3.3 0.57,0.43 -15.8,-0.04 -0.01,-14.45 3.57,0.04"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Henderson"
+       class="shp8"
+       d="m 272.9,136.5 15.8,0.04 -0.23,6.59 0.8,1.53 -15.79,2.39 -0.05,-0.2 -0.32,-1.72 -1.17,-1.75 -2.15,-2.59 -0.89,-1.08 -1.39,-1.26 -2.37,-1.1 -1.72,-0.91 9.48,0.06"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Anderson"
+       class="shp7"
+       d="m 289.27,144.66 -0.45,4.07 0.41,2.16 0.94,3.4 1.78,1.62 0.34,0.07 0.58,0.7 0.36,0.74 0.36,1.17 0.08,0.29 -0.36,0.5 -5.59,0.87 -4.04,0.71 -2.24,1.14 -1.21,-3.42 -0.22,-1.71 -2.03,-2.39 -0.86,-0.32 -1.62,-1.63 -2.25,-4.18 0.23,-1.4 15.79,-2.39"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Houston"
+       class="shp8"
+       d="m 281.44,162.1 2.24,-1.14 4.04,-0.71 5.59,-0.87 1.63,0.63 2.54,2.6 2.76,1.7 1.17,1.17 -12.11,9.96 -4.68,3.84 -3.77,-4.89 -0.27,-0.86 -0.03,-0.39 1.29,-4.07 0.58,-0.65 0.22,-0.12 0.1,0.02 0.58,-1.46 -1.14,-3.26 -0.48,-1.06 -0.26,-0.44"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Trinity"
+       class="shp7"
+       d="m 304.44,172.64 -9.07,9.75 -3.28,-1.03 -2.79,-5.92 12.11,-9.96 3.03,7.16"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Polk"
+       class="shp7"
+       d="m 311.67,175.17 -2.45,1.45 3.11,14.47 -4.82,1.18 -3.01,-0.07 -0.83,-1.71 -6.53,-6.26 -1.77,-1.84 9.07,-9.75 2.9,1.22 2.24,0.47 2.09,0.84"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Newton"
+       class="shp7"
+       d="m 336.23,171.17 1.19,-0.32 0.1,9.5 -0.46,2 -3.68,6.92 -0.29,1.05 v 0.01 l 0.08,0.08 0.72,0.87 0.36,1.87 -0.01,0.15 -0.1,0.26 -0.99,0.83 -0.03,0.03 0.79,4.7 -4.79,0.17 0.39,-12.72 0.06,-8.39 -1.3,-6.28 7.96,-0.73"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Jasper"
+       class="shp7"
+       d="m 325.01,172.67 3.27,-0.77 1.3,6.28 -0.07,8.39 -0.39,12.72 -5.58,0.15 0.27,-0.38 0.47,-2.92 -0.26,-0.28 -0.09,-0.02 -0.47,-1.07 -0.07,-0.42 0.28,-1.16 0.23,-0.7 0.65,-1.58 -0.39,-0.63 -0.27,-0.88 0.07,-0.23 0.58,-1.11 -0.12,-1.21 -1.83,-3.63 -0.24,-0.19 -0.57,-0.09 -0.16,-0.03 -0.06,-0.07 -1.73,-5.04 0.18,-1 -0.09,-0.24 -0.31,-0.32 -1.19,-0.46 -1.52,0.04 -2.55,0.08 8.37,-2.13 2.29,-1.1"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Tyler"
+       class="shp7"
+       d="m 314.35,175.9 2.55,-0.08 1.52,-0.04 1.19,0.46 0.31,0.32 0.09,0.24 -0.18,1 1.73,5.04 0.06,0.07 0.16,0.03 0.57,0.09 0.24,0.19 1.83,3.63 0.12,1.2 -0.58,1.12 -0.07,0.23 0.27,0.88 0.39,0.63 -12.22,0.18 -3.11,-14.47 2.45,-1.45 2.68,0.73"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Angelina"
+       class="shp0"
+       d="m 303.71,161.26 1.09,1.2 4.73,1.21 1.14,-0.18 1.01,0.42 1.35,0.7 0.32,0.35 4.25,5.15 5.12,3.66 -8.37,2.13 -2.68,-0.73 -2.09,-0.84 -2.24,-0.47 -2.9,-1.22 -3.03,-7.16 -1.17,-1.17 3.47,-3.05"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Sabine"
+       class="shp7"
+       d="m 329.93,159.01 2.75,2.89 2.35,3.41 0.76,3.33 0.18,0.98 0.26,1.55 -7.95,0.73 -3.27,0.77 -0.22,-0.7 -0.09,-4.17 0.02,-3.38 1.09,-1.17 0.42,-0.55 -0.1,-3.09 3.8,-0.6"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_San_Augustine"
+       class="shp7"
+       d="m 326.13,159.61 0.1,3.09 -0.42,0.55 -1.09,1.17 -0.02,3.38 0.09,4.17 0.22,0.7 -2.29,1.1 -5.12,-3.66 0.14,-3.58 0.19,-6.83 -1.78,-1.99 -0.61,-0.42 7.86,0.84 2.73,1.48"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Shelby"
+       class="shp7"
+       d="m 312.53,147.72 12.55,-0.4 3.57,3.98 1.28,7.71 -3.8,0.6 -2.73,-1.48 -7.86,-0.84 -1.45,-5.71 -1.56,-3.86"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Nacogdoches"
+       class="shp7"
+       d="m 301.79,151.72 12.3,-0.14 1.45,5.71 0.61,0.42 1.78,1.99 -0.19,6.83 -0.14,3.58 -4.25,-5.15 -0.32,-0.35 -1.35,-0.7 -1.01,-0.42 -1.14,0.18 -4.73,-1.21 -1.09,-1.2 -1.38,-1.37 -0.12,-0.19 -0.63,-1.71 -0.46,-1.73 -0.28,-2.68 0.95,-1.86"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Cherokee"
+       class="shp7"
+       d="m 288.47,143.13 12,-0.17 1.32,8.76 -0.95,1.86 0.28,2.68 0.46,1.73 0.63,1.71 0.12,0.19 1.38,1.37 -3.47,3.05 -2.76,-1.7 -2.54,-2.6 -1.63,-0.63 0.36,-0.5 -0.08,-0.29 -0.36,-1.17 -0.36,-0.74 -0.57,-0.7 -0.35,-0.07 -1.78,-1.62 -0.94,-3.4 -0.41,-2.16 0.45,-4.07 -0.8,-1.53"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Panola"
+       class="shp7"
+       d="m 324.14,134.96 0.13,5.89 0.81,6.47 -12.55,0.4 -2.24,0.06 -0.09,-3.21 0.49,-3.7 0.56,-1.39 0.8,-1.42 0.76,-1.83 0.02,-1.14 0.72,0.64 2.73,1.17 0.21,0.04 7.65,-1.98"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Rusk"
+       class="shp7"
+       d="m 310.62,135.11 2.21,-0.02 -0.02,1.14 -0.76,1.83 -0.8,1.42 -0.56,1.39 -0.49,3.7 0.09,3.21 2.24,-0.06 1.55,3.86 -12.29,0.14 -1.32,-8.76 -0.09,-6.95 4.44,-0.09 4.18,-0.04 1.62,-0.77"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Gregg"
+       class="shp7"
+       d="m 300.28,130.97 0.41,-0.04 3.79,-1.63 1.49,-2.08 0.19,-0.08 1.18,0.13 0.08,0.15 0.09,5.99 0.03,0.9 1.5,0.72 1.33,0.17 0.25,-0.09 -1.62,0.77 -4.18,0.04 -4.44,0.09 -0.1,-5.04"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Smith"
+       class="shp8"
+       d="m 284.99,126.59 2.27,2.03 0.72,0.32 7.23,1.81 0.18,-0.02 0.49,-0.24 0.23,-0.46 4.17,0.94 0.1,5.04 0.09,6.95 -12,0.17 0.23,-6.59 -0.57,-0.43 -3.1,-3.3 -0.04,-6.22"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Wood"
+       class="shp7"
+       d="m 296.01,116.71 0.03,3.33 0.07,9.99 -0.23,0.46 -0.49,0.24 -0.18,0.02 -7.23,-1.81 -0.72,-0.32 -2.27,-2.03 -1.03,-1 -0.77,-7.21 8.92,-0.12 3.9,-1.55"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Harrison"
+       class="shp7"
+       d="m 307.36,123.2 4.93,2.91 3.08,-0.03 0.83,-0.42 2.98,-0.38 1.77,-0.15 1.28,0.16 1.71,0.63 0.2,9.04 -7.65,1.98 -0.21,-0.04 -2.73,-1.17 -0.72,-0.64 -2.21,0.02 -0.25,0.09 -1.33,-0.17 -1.5,-0.72 -0.03,-0.9 -0.09,-5.99 -0.06,-4.22"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Upshur"
+       class="shp7"
+       d="m 296.04,120.04 10.82,-0.19 0.37,0.77 0.13,2.58 0.06,4.22 -0.08,-0.15 -1.18,-0.13 -0.19,0.08 -1.49,2.08 -3.79,1.63 -0.41,0.04 -4.17,-0.94 -0.07,-9.99"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Camp"
+       class="shp7"
+       d="m 296.01,116.71 0.65,-0.65 2.13,-1.16 0.56,-0.11 h 0.45 l 1.47,0.02 0.34,0.11 1.33,1.65 1.4,0.96 2.52,2.32 -10.82,0.19 -0.03,-3.33"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Marion"
+       class="shp8"
+       d="m 308.53,120.59 15.31,-0.32 0.1,5.65 -1.71,-0.63 -1.28,-0.16 -1.77,0.15 -2.98,0.38 -0.83,0.42 -3.08,0.03 -4.93,-2.91 -0.13,-2.58 1.3,-0.03"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Cass"
+       class="shp8"
+       d="m 308.41,108.88 0.06,0.29 0.21,0.17 0.84,0.16 9.39,0.06 0.05,-0.09 -0.08,-0.27 -0.07,-0.63 0.4,-0.71 0.78,-0.27 0.62,-0.14 2.25,0.36 0.52,0.27 0.21,0.47 0.16,7.57 0.09,4.15 -15.31,0.32 -0.12,-11.71"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Morris"
+       class="shp7"
+       d="m 304.46,106.08 1.57,1.03 2.38,1.77 0.12,11.71 -1.3,0.03 -0.37,-0.77 -2.52,-2.32 0.12,-11.45"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Titus"
+       class="shp7"
+       d="m 304.46,106.08 -0.12,11.45 -1.4,-0.96 -1.33,-1.65 -0.34,-0.11 -1.47,-0.02 h -0.45 l -0.56,0.11 -2.13,1.16 -0.09,-10.67 7.89,0.69"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Franklin"
+       class="shp8"
+       d="m 296.57,105.39 0.09,10.67 -0.65,0.65 -3.9,1.55 -0.09,-12.45 0.05,-0.04 4.5,-0.38"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hopkins"
+       class="shp7"
+       d="m 278.26,110.6 2.05,-1.21 1.12,-1.31 3.1,-1.42 0.6,-0.25 1.27,-0.04 5.62,-0.56 0.09,12.45 -8.92,0.12 -4.94,-0.57 0.01,-7.21"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Delta"
+       class="shp7"
+       d="m 278.36,103.32 1.93,-0.9 0.46,-0.13 3.45,0.25 0.49,0.08 2.73,0.85 0.48,0.21 2.52,1.72 1.6,0.29 0.05,0.08 -0.05,0.04 -5.62,0.56 -1.27,0.04 -0.6,0.26 -3.1,1.41 -1.12,1.31 -2.05,1.21 0.07,-5.72 0.03,-1.56"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hunt"
+       class="shp7"
+       d="m 278.33,104.88 -0.07,5.72 -0.01,7.21 -1.79,4.28 -3.57,-0.04 -5.53,-0.11 0.02,-4.2 0.08,-11.14 10.86,-1.72"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Collin"
+       class="shp8"
+       d="m 254.05,104.92 11.19,0.3 2.22,1.38 -0.08,11.14 -5.5,-0.04 -8.2,-0.22 0.37,-12.56"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Denton"
+       class="shp7"
+       d="m 240.41,104.01 10.92,0.55 2.72,0.36 -0.37,12.56 -4.69,0.04 -9.16,-0.28 0.58,-13.23"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Wise"
+       class="shp8"
+       d="m 227.1,103.67 10.72,0.2 2.59,0.14 -0.58,13.23 -3.64,-0.18 -9.44,-0.38 0.35,-13.01"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Jack"
+       class="shp8"
+       d="m 214.61,102.4 11,0.25 1.49,1.02 -0.35,13.01 -3.36,-0.13 -9.26,-0.36 0.45,-11.67 0.03,-2.12"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Young"
+       class="shp2"
+       d="m 201.31,104.1 13.27,0.42 -0.45,11.67 -3.77,1.51 -9.39,-0.35 0.34,-13.25"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Throckmorton"
+       class="shp7"
+       d="m 188.41,103.62 12.9,0.48 -0.34,13.25 -3.63,-0.12 -9.38,-0.32 0.45,-13.29"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Haskell"
+       class="shp7"
+       d="m 175.52,103.17 12.89,0.45 -0.45,13.29 -3.52,-0.13 -9.42,-0.47 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Stonewall"
+       class="shp7"
+       d="m 162.43,102.56 13.09,0.61 -0.5,13.14 -3.88,-0.16 -9.37,-0.52 0.66,-13.07"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Dickens"
+       class="shp7"
+       d="m 150.11,88.82 12.91,0.59 -0.59,13.15 -12.96,-0.63 0.64,-13.11"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Motley"
+       class="shp7"
+       d="m 150.86,74.42 2.35,0.12 10.54,0.48 -0.73,14.39 -12.91,-0.59 0.75,-14.4"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hall"
+       class="shp7"
+       d="m 163.79,61.95 3.05,0.15 -0.66,13.05 -2.43,-0.13 -10.54,-0.48 0.71,-13.09 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Donley"
+       class="shp7"
+       d="m 164.46,48.84 -0.67,13.11 -9.87,-0.5 -3.56,-0.19 0.81,-13.05 13.29,0.63"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Gray"
+       class="shp7"
+       d="m 151.88,35.05 13.17,0.66 -0.59,13.13 -13.29,-0.63 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Roberts"
+       class="shp7"
+       d="m 152.59,21.91 v -0.07 l 12.94,0.69 0.16,0.01 -0.64,13.17 -13.17,-0.66 0.01,-0.19 0.7,-12.94"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Ochiltree"
+       class="shp7"
+       d="m 156.44,8.7 9.74,0.49 -0.65,13.34 -12.94,-0.69 0.72,-13.3 3.13,0.16"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Lipscomb"
+       class="shp10"
+       d="m 166.18,9.19 12.96,0.58 -0.49,13.38 -12.96,-0.61 -0.16,-0.01 0.65,-13.34"
+       style="fill:#4389e3;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hemphill"
+       class="shp7"
+       d="m 178.65,23.15 -0.22,5.26 -0.32,7.9 -13.06,-0.6 0.64,-13.17 z"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Wheeler"
+       class="shp8"
+       d="m 165.05,35.71 13.06,0.6 -0.56,13.14 -13.09,-0.61 0.59,-13.13"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Collingsworth"
+       class="shp7"
+       d="m 164.46,48.84 13.09,0.61 -0.2,4.59 -0.35,8.55 -10.16,-0.49 -3.05,-0.15 0.67,-13.11"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Childress"
+       class="shp7"
+       d="m 166.84,62.1 10.16,0.49 -0.17,5.56 -0.33,7.52 -10.32,-0.52 0.66,-13.05"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Cottle"
+       class="shp7"
+       d="m 163.75,75.02 2.43,0.13 10.32,0.52 -0.1,2.63 -0.27,-0.54 -0.69,0.07 -0.25,0.26 -0.54,11.83 -11.63,-0.51 0.73,-14.39"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_King"
+       class="shp7"
+       d="m 163.02,89.41 11.63,0.51 1.29,0.07 -0.42,13.18 -13.09,-0.61 0.59,-13.15"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Knox"
+       class="shp7"
+       d="m 188.73,93.56 -0.32,10.06 -12.89,-0.45 0.42,-13.18 3.97,0.16 3.34,0.65 3.8,0.84 1.26,0.89 0.35,0.65 0.07,0.38"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Foard"
+       class="shp8"
+       d="m 176.4,78.3 4.48,3.46 6.36,2.05 1.48,-0.24 0.28,-0.29 0.09,-0.3 -0.28,7.56 -0.08,3.02 -0.07,-0.38 -0.35,-0.65 -1.26,-0.89 -3.8,-0.84 -3.33,-0.65 -3.98,-0.16 -1.29,-0.07 0.54,-11.83 0.25,-0.26 0.69,-0.07 0.27,0.54"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Hardeman"
+       class="shp7"
+       d="m 180.42,69.94 1.27,1.66 0.62,0.73 1.72,1.63 0.75,0.18 h 0.21 l 0.95,-0.01 0.96,-1.21 0.13,-0.05 0.27,0.04 1.18,0.14 0.37,0.16 0.61,0.35 -0.37,9.42 -0.09,0.29 -0.28,0.3 -1.48,0.24 -6.36,-2.05 -4.48,-3.46 0.1,-2.63 0.33,-7.52 3.59,1.79"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Archer"
+       class="shp7"
+       d="m 201.74,90.98 13.1,0.31 -0.23,11.11 -0.03,2.12 -13.27,-0.42 0.43,-13.12"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Baylor"
+       class="shp7"
+       d="m 201.74,90.98 -0.43,13.12 -12.9,-0.48 0.32,-10.06 0.08,-3.02 12.93,0.44"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Wilbarger"
+       class="shp7"
+       d="m 195.87,75.64 -0.04,0.7 -0.02,0.65 0.43,2.32 v 0.01 l 0.01,0.01 0.32,0.1 0.5,0.15 0.92,0.21 0.46,-0.02 0.99,-0.02 2.27,0.18 h 0.04 l 0.34,0.17 -0.35,10.88 -12.93,-0.44 0.28,-7.56 0.37,-9.42 0.81,0.77 0.82,0.07 0.19,-0.08 h 0.02 l 0.03,-0.05 0.01,-0.03 1.06,-1.89 1.08,0.59 1.22,0.66 1.17,2.02 v 0.03"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Wichita"
+       class="shp8"
+       d="m 210.5,81.39 0.25,0.02 0.54,0.36 0.57,0.48 1.17,1.88 0.7,0.26 0.01,0.01 0.02,-0.02 1.32,-1.19 -0.24,8.1 -13.1,-0.31 0.35,-10.88 2.28,1.37 2.27,0.55 1.62,0.06 2.24,-0.69"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Clay"
+       class="shp8"
+       d="m 222.82,85.54 0.43,0.86 0.07,0.06 0.04,0.01 1.05,0.31 h 0.53 l 0.03,-0.01 0.86,-0.21 0.92,0.37 0.01,0.01 -0.22,1.6 -0.64,1.38 -0.29,12.73 -11,-0.25 0.23,-11.11 0.24,-8.1 0.99,-1.25 0.49,-0.28 0.94,0.21 3.83,1.21 1.49,2.46"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Montague"
+       class="shp8"
+       d="m 238.13,89.37 -0.31,14.5 -10.72,-0.2 -1.49,-1.02 0.29,-12.73 0.27,0.25 2.19,1 0.29,0.03 0.78,-0.23 1.23,-0.98 1.3,-1.34 0.85,-1.07 2.52,1.68 0.89,0.62 1.91,-0.51"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Cooke"
+       class="shp8"
+       d="m 251.47,88.54 -0.14,16.02 -10.92,-0.55 -2.59,-0.14 0.31,-14.5 0.49,2.24 0.06,0.15 0.02,0.06 v 0.01 l 0.15,0.17 0.22,0.15 7.21,3.15 0.34,0.12 0.4,0.05 0.36,-0.12 0.25,-0.2 0.11,-0.15 3.73,-6.46"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Fannin"
+       class="shp8"
+       d="m 278.69,91.91 -0.33,11.41 -0.03,1.56 -10.87,1.72 -2.22,-1.38 0.17,-9.92 0.24,0.33 3.69,-0.91 0.52,-0.14 0.45,-0.19 0.03,-0.04 0.23,-0.24 0.03,-0.04 0.01,-0.02 0.06,-0.2 0.08,-0.23 0.02,-0.09 0.01,-0.07 0.15,-0.72 0.21,-0.74 1.26,-0.29 2.78,-0.23 0.54,-0.04 0.33,-0.03 1.44,0.28 1.2,0.22"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Grayson"
+       class="shp8"
+       d="m 251.71,88.4 1.26,2.59 0.4,0.45 0.25,0.18 2.34,0.71 1.2,-0.2 0.02,-0.01 2.48,-1.12 -0.08,0.48 0.02,0.37 0.02,0.14 0.02,0.08 2.54,1.7 0.23,0.16 h 0.04 l 1.27,-0.24 0.29,0.03 0.32,0.11 v 0.01 l 1.08,1.46 -0.17,9.92 -11.19,-0.3 -2.72,-0.36 0.14,-16.02 0.24,-0.14"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Lamar"
+       class="shp7"
+       d="m 291.87,90.93 0.15,14.76 -1.6,-0.29 -2.52,-1.72 -0.48,-0.21 -2.73,-0.85 -0.49,-0.08 -3.45,-0.25 -0.46,0.13 -1.93,0.9 0.33,-11.41 2.12,-0.8 0.01,-0.01 2.08,-1.08 1.81,-0.94 0.8,0.05 0.19,0.07 0.26,0.67 v 0.2 l -0.08,0.21 0.01,0.15 v 0.02 l 0.1,0.17 0.09,0.08 2.45,0.33 0.93,0.07 1.67,-0.08 h 0.02 l 0.72,-0.09"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Aransas"
+       class="shp7"
+       d="m 241.33,264.3 0.51,0.42 0.09,0.01 2.37,-1.15 3.36,-2.53 0.17,-0.45 -0.56,-0.02 -0.57,-0.09 -1.02,-0.6 -0.59,-0.8 -0.05,-0.61 8.82,-1.28 -0.22,1.38 0.31,0.5 v 0.17 l -0.36,0.77 -0.26,0.2 -3.34,2.74 -0.74,0.01 -2.31,3 -2.34,3.53 -3.27,-5.2 m 11.45,-0.95 -0.65,1.5 -5.17,6.62 -0.14,-0.38 5.96,-7.74"
+       style="fill:#002b84;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="TX_Cameron"
+       class="shp8"
+       d="m 224.35,315.3 9.04,1.6 2.93,-1.95 1.05,-1.31 0.13,0.07 1.25,1.76 -0.07,2.51 0.94,4.67 2.01,3.34 0.07,0.07 -0.32,1.02 -4.95,2.97 -2.41,-0.74 -0.38,-0.23 -0.37,-0.29 -1.55,-1.22 -2.28,-2.55 -0.1,-0.33 -3.09,-0.54 -2.07,-0.36 0.17,-8.49 m 16.86,-1.6 h 0.46 l 0.75,3.12 0.23,1.17 0.31,2.21 0.47,3.72 -0.12,-0.02 -0.08,-0.01 -0.22,-0.3 -0.24,-2.02 0.03,-0.92 -0.12,-1.1 -0.26,-1.7 -0.53,-2.43 -0.31,-0.96 -0.37,-0.76"
+       style="fill:#0645b4;fill-opacity:1"
+       inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
