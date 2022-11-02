@@ -46,3 +46,23 @@ To obtain [Winning candidate number], use the following operation on the cell:
     =IFS(AND([Candidate 1 votes] > [Candidate 2 votes],... [Candidate 1 votes] > [Candidate X votes]), 1,... AND([Candidate X votes] > [Candidate 1 votes],... [Candidate X votes] > [Candidate Y votes]), X, TRUE, 0)
 
 Ensure that every vote count is compared against every other vote count. If there is a tie for first place, the function will return 0. Currently, this will cause the program to ignore the county. Functionality will be developed later to color these counties properly.
+
+Remove commas from the raw vote counts before downloading to CSV. Any extra commas will break the program. The county names must be spelled exactly as they are in BlankTexasCountyMap.svg. If they are not, the county will not be colored and the program will notify you in the command prompt.
+
+## Color palettes
+The data in the first line does not affect the final map, but it should be formatted as such:
+
+    Party,>90,80-90,70-80,60-70,50-60,[more ranges can be added as desired]
+
+Each subsequent row should be formatted as such:
+
+    [Party name],[>90% color],[80-90% color],...
+
+Each color should be given as an RGB hex value without any prefixes or suffixes. The standard colors for Wikipedia county maps can be found [here](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Elections_and_Referendums/USA_legend_colors).
+
+# Planned functionality
+
+* Prompt user to select files in the program instead of providing parameters
+* Add standard color for when county results are not found
+* Add functionality to determine colors for ties
+* Less sensitive county name matching
