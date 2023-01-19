@@ -3,6 +3,16 @@ const xml2js = require('xml2js');
 
 const myArgs = process.argv.slice(2);
 
+if (!fs.existsSync('./Elections/' + myArgs[0])){
+    console.log("Error: Please provide valid election results");
+    return;
+}
+
+if (!fs.existsSync('./Palettes/' + myArgs[1])){
+    console.log("Error: Please provide a valid color palette");
+    return;
+}
+
 const electionFile = fs.readFileSync('./Elections/' + myArgs[0], { encoding: 'utf-8' });
 const electionFileLines = electionFile.split('\r\n');
 var electionHeader = [];
