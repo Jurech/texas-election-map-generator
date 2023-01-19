@@ -9,9 +9,8 @@ console.log("Welcome to the Texas Election Map Generator! Please select an elect
 var electionSelected = false;
 var electionFileName;
 
-for(i = 0; i < electionFileList.length; i++){
-    console.log(i + 1 + "\t" + electionFileList[i]);
-}
+displayInThreeColumns(electionFileList, 5);
+
 while (!electionSelected){
     var electionNumber = prompt("Choose election: ");
     if (fs.existsSync('./Elections/' + electionFileList[electionNumber - 1])){
@@ -25,9 +24,8 @@ console.log("Here is a list of all available color palettes:");
 var paletteSelected = false;
 var paletteFileName;
 
-for(i = 0; i < paletteList.length; i++){
-    console.log(i + 1 + "\t" + paletteList[i]);
-}
+displayInThreeColumns(paletteList, 3);
+
 while (!paletteSelected){
     var paletteNumber = prompt("Please choose a color palette: ");
     if (fs.existsSync('./Palettes/' + paletteList[paletteNumber - 1])){
@@ -171,3 +169,32 @@ function readCSV (lineByLineData, attributeNames, attributeData) {
     }
 }
 
+function displayInThreeColumns(data, minPaddingLength){
+
+// Determine the length of the longest item in data
+var maximumLength = 0;
+for (i = 0; i < data.length; i++){
+    if (data[i].length > maximumLength){
+        maximumLength = data[i].length;
+    }
+}
+maximumLength += minPaddingLength;
+
+for(i = 0; i < data.length; i += 3){
+    var numDigits = Math.floor(Math.log10(i + 1));
+    if (i + 2 < data.length){
+        var paddingLength = [maximumLength - data[i].length - numDigits, maximumLength - data[i + 1].length - numDigits];
+        var padding = [new Array(paddingLength[0]).join(' '), new Array(paddingLength[1]).join(' ')]
+        console.log(String(i + 1) + ":", data[i], padding[0], String(i + 2) + ":", data[i + 1], padding[1], String(i + 3) + ":", data[i + 2]);
+    }
+    else if (i + 1 < data.length){
+        var paddingLength = maximumLength - data[i].length - numDigits;
+        var padding = new Array(paddingLength).join(' ');
+        console.log(String(i + 1) + ":", data[i], padding, String(i + 2) + ":", data[i + 1]);
+    }
+    else{
+        console.log(String(i + 1) + ":", data[i]);
+    }
+    
+}
+}
