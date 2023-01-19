@@ -134,6 +134,11 @@ fs.readFile("BlankTexasCountyMap.svg", "utf-8", (err, data) => {
     });
 });
 
+/**
+ * Reads in a CSV file in lines and returns two arrays
+ * The first array contains all of the headings from the CSV
+ * The second array contains all of the data from the CSV
+ */
 function readCSV (lineByLineData, attributeNames, attributeData) {
     var attributeName;
     for(i = 0; i < lineByLineData[0].length; i++){
@@ -169,32 +174,36 @@ function readCSV (lineByLineData, attributeNames, attributeData) {
     }
 }
 
+/**
+ * Takes string data from an array and displays it in three columns
+ * minPaddingLength determines the minimum amount of padding between the columns
+ */
 function displayInThreeColumns(data, minPaddingLength){
 
-// Determine the length of the longest item in data
-var maximumLength = 0;
-for (i = 0; i < data.length; i++){
-    if (data[i].length > maximumLength){
-        maximumLength = data[i].length;
+    // Determine the length of the longest item in data
+    var maximumLength = 0;
+    for (i = 0; i < data.length; i++){
+        if (data[i].length > maximumLength){
+            maximumLength = data[i].length;
+        }
     }
-}
-maximumLength += minPaddingLength;
+    maximumLength += minPaddingLength;
 
-for(i = 0; i < data.length; i += 3){
-    var numDigits = Math.floor(Math.log10(i + 1));
-    if (i + 2 < data.length){
-        var paddingLength = [maximumLength - data[i].length - numDigits, maximumLength - data[i + 1].length - numDigits];
-        var padding = [new Array(paddingLength[0]).join(' '), new Array(paddingLength[1]).join(' ')]
-        console.log(String(i + 1) + ":", data[i], padding[0], String(i + 2) + ":", data[i + 1], padding[1], String(i + 3) + ":", data[i + 2]);
+    for(i = 0; i < data.length; i += 3){
+        var numDigits = Math.floor(Math.log10(i + 1));
+        if (i + 2 < data.length){
+            var paddingLength = [maximumLength - data[i].length - numDigits, maximumLength - data[i + 1].length - numDigits];
+            var padding = [new Array(paddingLength[0]).join(' '), new Array(paddingLength[1]).join(' ')]
+            console.log(String(i + 1) + ":", data[i], padding[0], String(i + 2) + ":", data[i + 1], padding[1], String(i + 3) + ":", data[i + 2]);
+        }
+        else if (i + 1 < data.length){
+            var paddingLength = maximumLength - data[i].length - numDigits;
+            var padding = new Array(paddingLength).join(' ');
+            console.log(String(i + 1) + ":", data[i], padding, String(i + 2) + ":", data[i + 1]);
+        }
+        else{
+            console.log(String(i + 1) + ":", data[i]);
+        }
+        
     }
-    else if (i + 1 < data.length){
-        var paddingLength = maximumLength - data[i].length - numDigits;
-        var padding = new Array(paddingLength).join(' ');
-        console.log(String(i + 1) + ":", data[i], padding, String(i + 2) + ":", data[i + 1]);
-    }
-    else{
-        console.log(String(i + 1) + ":", data[i]);
-    }
-    
-}
 }
