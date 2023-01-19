@@ -19,9 +19,9 @@ This will create the node_modules folder containing all the libraries required f
 ## Running the program
 This program is run through the command prompt using node. Use this command to run the program:
 
-    node mapMakerScript.js [Election result file name] [Color palette file name]
+    node mapMakerScript.js
 
-The election result file must be a CSV file in the Elections folder, and the palette must be a CSV file in the Palettes folder.
+The program will prompt the user at the beginning to select an election result and palette file. The election result file must be a CSV file in the Elections folder, and the palette must be a CSV file in the Palettes folder.
 
 # Data formatting
 The data in the CSV files must be formatted in a particular way to get the program to run properly. It is recommended to use Microsoft Excel or Google Sheets to make the CSV files.
@@ -62,7 +62,6 @@ Each color should be given as an RGB hex value without any prefixes or suffixes.
 
 # Planned functionality
 
-* Prompt user to select files in the program instead of providing parameters
 * Add standard color for when county results are not found
 * Add functionality to determine colors for ties
 * Less sensitive county name matching

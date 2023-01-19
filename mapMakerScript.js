@@ -1,25 +1,48 @@
 const fs = require("fs");
 const xml2js = require('xml2js');
+const prompt = require('prompt-sync')({sigint: true});
 
-const myArgs = process.argv.slice(2);
+var electionFileList = fs.readdirSync('./Elections/');
+var paletteList = fs.readdirSync('./Palettes/');
 
-if (!fs.existsSync('./Elections/' + myArgs[0])){
-    console.log("Error: Please provide valid election results");
-    return;
+console.log("Welcome to the Texas Election Map Generator! Please select an election to map:");
+var electionSelected = false;
+var electionFileName;
+
+for(i = 0; i < electionFileList.length; i++){
+    console.log(i + 1 + "\t" + electionFileList[i]);
+}
+while (!electionSelected){
+    var electionNumber = prompt("Choose election: ");
+    if (fs.existsSync('./Elections/' + electionFileList[electionNumber - 1])){
+        electionFileName = electionFileList[electionNumber - 1];
+        electionSelected = true;
+    }
 }
 
-if (!fs.existsSync('./Palettes/' + myArgs[1])){
-    console.log("Error: Please provide a valid color palette");
-    return;
+console.log("You have chosen", electionFileName);
+console.log("Here is a list of all available color palettes:");
+var paletteSelected = false;
+var paletteFileName;
+
+for(i = 0; i < paletteList.length; i++){
+    console.log(i + 1 + "\t" + paletteList[i]);
+}
+while (!paletteSelected){
+    var paletteNumber = prompt("Please choose a color palette: ");
+    if (fs.existsSync('./Palettes/' + paletteList[paletteNumber - 1])){
+        paletteFileName = paletteList[paletteNumber - 1];
+        paletteSelected = true;
+    }
 }
 
-const electionFile = fs.readFileSync('./Elections/' + myArgs[0], { encoding: 'utf-8' });
+const electionFile = fs.readFileSync('./Elections/' + electionFileName, { encoding: 'utf-8' });
 const electionFileLines = electionFile.split('\r\n');
 var electionHeader = [];
 var countyData = [];
 readCSV(electionFileLines, electionHeader, countyData);
 
-const colorFile = fs.readFileSync('./Palettes/' + myArgs[1], { encoding: 'utf-8' });
+const colorFile = fs.readFileSync('./Palettes/' + paletteFileName, { encoding: 'utf-8' });
 const colorFileLines = colorFile.split('\r\n');
 var colorHeader = [];
 var newColors = [];
@@ -71,7 +94,7 @@ fs.readFile("BlankTexasCountyMap.svg", "utf-8", (err, data) => {
         }
         result.svg.style = newColorString;
 
-        for(i = 0; i < countyData.length - 1; i++){
+        for(i = 0; i < countyData.length; i++){
             var foundCounty = false;
             var svgCountyName = "TX_" + countyData[i][0];
             for(j = 0; j < 254; j++){
@@ -102,12 +125,12 @@ fs.readFile("BlankTexasCountyMap.svg", "utf-8", (err, data) => {
         const xml = builder.buildObject(result);
 
         // write updated XML string to a file
-        fs.writeFile('./Finished_Maps/' + myArgs[0].substr(0, myArgs[0].length - 4) + '.svg', xml, (err) => {
+        fs.writeFile('./Finished_Maps/' + electionFileName.substr(0, electionFileName.length - 4) + '.svg', xml, (err) => {
             if (err) {
                 throw err;
             }
 
-            console.log('New map written to ' + myArgs[0].substr(0, myArgs[0].length - 4) + '.svg');
+            console.log('New map written to ' + electionFileName.substr(0, electionFileName.length - 4) + '.svg');
         });
 
     });
@@ -147,3 +170,4 @@ function readCSV (lineByLineData, attributeNames, attributeData) {
         attributeData.push(attribute);
     }
 }
+
