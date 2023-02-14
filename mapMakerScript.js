@@ -5,6 +5,7 @@ const prompt = require('prompt-sync')({sigint: true});
 var electionFileList = fs.readdirSync('./Elections/');
 var paletteList = fs.readdirSync('./Palettes/');
 
+
 console.log("Welcome to the Texas Election Map Generator! Please select an election to map:");
 var electionSelected = false;
 var electionFileName;
@@ -20,6 +21,7 @@ while (!electionSelected){
 }
 
 console.log("You have chosen", electionFileName);
+
 console.log("Here is a list of all available color palettes:");
 var paletteSelected = false;
 var paletteFileName;
@@ -57,18 +59,6 @@ for (i = 0; i < numColors; i++){
     }
 }
 
-// Replace spaces in county names with underscores
-for(i = 0; i < countyData.length; i++){ 
-    var countyName = countyData[i][0];
-    for(j = 0; j < countyName.length; j++){
-        if (countyName[j] == " "){
-            var newCountyName = countyName.substr(0, j) + "_" + countyName.substr(j + 1, countyName.length);
-            countyData[i][0] = newCountyName; 
-        }
-    }
-}
-
-
 // read XML file
 fs.readFile("BlankTexasCountyMap.svg", "utf-8", (err, data) => {
     if (err) {
@@ -79,31 +69,22 @@ fs.readFile("BlankTexasCountyMap.svg", "utf-8", (err, data) => {
         if (err) {
             throw err;
         }
-        var colorRow = 0;
-        var colorColumn = 0;
-        var newColorString = "\n\t\ttspan { white-space: pre }\n";
-        for(i = 0; i < numColors; i++){
-            newColorString += "\t\t.shp" + i + "{ fill: #" + newColors[colorRow][colorColumn + 1] + ";stroke: #ffffff;stroke-width: 1.034 } \n"
-            colorColumn++;
-            if (colorColumn >= (newColors[0].length - 1)){
-                colorRow++;
-                colorColumn = 0;
-            }
-        }
-        result.svg.style = newColorString;
 
         for(i = 0; i < countyData.length; i++){
             var foundCounty = false;
-            var svgCountyName = "TX_" + countyData[i][0];
+            var svgCountyName = countyData[i][0];
+            if (svgCountyName == "Total"){
+                continue;
+            }
             for(j = 0; j < 254; j++){
                 if (svgCountyName ==  result.svg.g[0].path[j].$.id){
                     marginNeeded = .9;
                     var winner = Number(countyData[i][countyData[i].length - 1]) - 1;
                     for(colorNumber = 1; colorNumber <= newColors[0].length; colorNumber++){
-                        winningPercent = parseFloat(countyData[i][(winner + 1) * 2]) / 100.0 
+                        winningPercent = parseFloat(countyData[i][(winner + 1) * 2]) / 100.0; 
                         if (winningPercent > marginNeeded){
                             result.svg.g[0].path[j].$.style = "fill:#" + newColors[winner][colorNumber] + ";fill-opacity:1";
-                            result.svg.g[0].path[j].$.class = newShpNumbers[winner][colorNumber - 1];
+                            result.svg.g[0].path[j].$.fill = "#" + newColors[winner][colorNumber];
                             foundCounty = true;
                             break;
                         }
