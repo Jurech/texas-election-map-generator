@@ -5,7 +5,7 @@
    height="112.12405"
    version="1.1"
    id="svg259"
-   sodipodi:docname="2003TX19Runoff.svg"
+   sodipodi:docname="2003TX19.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,9 +22,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="6.8353656"
-     inkscape:cx="48.205176"
-     inkscape:cy="49.521857"
+     inkscape:zoom="4.8333334"
+     inkscape:cx="34.655172"
+     inkscape:cy="57.206896"
      inkscape:window-width="958"
      inkscape:window-height="991"
      inkscape:window-x="952"
@@ -56,7 +56,7 @@
        id="TX_Lubbock"
        class="shp9"
        d="m 124.28,87.58 12.91,0.61 -0.6,13.1 -12.91,-0.63 z"
-       style="fill:#d72f30;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffe0ea;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -64,7 +64,7 @@
        id="TX_Hockley"
        class="shp9"
        d="m 111.2,86.69 13.08,0.89 -0.6,13.08 -12.88,-0.83 0.4,-13.14"
-       style="fill:#d72f30;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffc8cd;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -72,7 +72,7 @@
        id="TX_Cochran"
        class="shp9"
        d="m 100.53,85.94 10.67,0.75 -0.4,13.14 -11.47,-0.82 0.51,-5.47 0.69,-7.6"
-       style="fill:#d72f30;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffe0ea;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -80,7 +80,7 @@
        id="TX_Lamb"
        class="shp9"
        d="m 112.23,72.03 2.2,0.16 -0.002,0.810079 v 0 l 0.37987,0.07576 0.35872,0.07154 1.10086,0.219553 0.77045,-0.0035 0.32031,0.08845 0.13039,-0.215676 0.65004,0.03326 0.19708,0.205517 -0.0575,0.853957 0.42618,0.06691 -0.0373,0.449093 0.43293,-0.06805 0.032,-0.344128 0.44248,0.03767 -0.0373,0.449093 0.85612,0.05884 0.27994,0.02936 0.48678,0.03994 0.0892,0.290196 2.68428,0.227544 0.95427,0.169094 L 124.28,87.58 111.2,86.69 112.23,72.03"
-       style="fill:#d72f30;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffb2b2;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -89,7 +89,7 @@
        id="TX_Bailey"
        class="shp9"
        d="m 112.23,72.03 -1.03,14.66 -10.67,-0.75 1.16,-14.34 0.02,-0.32 10.52,0.75"
-       style="fill:#d72f30;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffb2b2;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -97,7 +97,7 @@
        id="TX_Parmer"
        class="shp8"
        d="m 102.71,58.23 12.62,0.92 -0.9,13.04 -2.2,-0.16 -10.52,-0.75 1,-13.05"
-       style="fill:#c21b18;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffb2b2;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -105,7 +105,7 @@
        id="TX_Lynn"
        class="shp10"
        d="m 136.59,101.29 -0.78,13.02 -3.33,-0.22 -9.62,-0.54 0.82,-12.89 z"
-       style="fill:#d75d5d;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffe0ea;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -113,7 +113,7 @@
        id="TX_Terry"
        class="shp9"
        d="m 110.8,99.83 12.88,0.83 -0.82,12.89 -3.31,-0.19 -9.65,-0.64 0.9,-12.89"
-       style="fill:#d72f30;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffb2b2;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -121,7 +121,7 @@
        id="TX_Yoakum"
        class="shp10"
        d="m 110.8,99.83 -0.9,12.89 -11.72,-0.86 1.15,-12.85 z"
-       style="fill:#d75d5d;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffb2b2;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -129,7 +129,7 @@
        id="TX_Gaines"
        class="shp11"
        d="m 98.18,111.86 11.72,0.86 9.65,0.64 -0.71,13.08 -0.21,-0.01 -21.42,-1.48 0.97,-13.09"
-       style="fill:#e27f7f;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffc8cd;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -137,7 +137,7 @@
        id="TX_Martin"
        class="shp3"
        d="m 118.63,126.43 0.21,0.01 12.91,0.74 -0.94,13.12 -2.05,-0.11 -10.99,-0.69 0.86,-13.07"
-       style="fill:#ee8e50;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffcca9;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -145,7 +145,7 @@
        id="TX_Andrews"
        class="shp2"
        d="m 97.21,124.95 21.42,1.48 -0.86,13.07 -1.9,-0.13 -12.94,-0.86 -6.69,-0.53 0.97,-13.03"
-       style="fill:#d69850;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffdac1;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -153,7 +153,7 @@
        id="TX_Midland"
        class="shp1"
        d="m 115.87,139.37 1.9,0.13 10.99,0.69 -0.78,13.04 -12.99,-0.83 0.88,-13.03"
-       style="fill:#b98a35;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff9a50;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -161,7 +161,7 @@
        id="TX_Ector"
        class="shp1"
        d="m 115.87,139.37 -0.88,13.03 -0.79,-0.04 -11.4,-0.81 -0.8,-0.05 0.93,-12.99 12.94,0.86"
-       style="fill:#b98a35;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffcca9;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -169,7 +169,7 @@
        id="TX_Crane"
        class="shp2"
        d="m 102.8,151.55 11.4,0.81 -0.69,16.92 -2.24,-0.18 -0.81,-3.13 -0.22,-0.58 -0.08,-0.13 -0.32,-0.31 -1.24,-1.07 -0.33,-0.26 -3.14,-1.8 -0.33,0.01 -2.76,0.43 0.76,-10.71"
-       style="fill:#d69850;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#d0f9f9;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -177,7 +177,7 @@
        id="TX_Ward"
        class="shp1"
        d="m 102,151.5 0.8,0.05 -0.76,10.71 -1.82,0.12 -1.09,-1.09 -0.72,-0.64 -0.81,-0.49 -1.6,-0.66 -1.5,0.07 -0.94,-0.02 -0.6,-0.06 -1.3,-0.3 -7.01,-2.32 -0.33,-0.33 -0.29,-0.53 -0.25,-1.5 0.06,-1.8 0.15,-1.02 -0.16,-0.64 -0.42,-0.67 -2,-0.45 7.18,0.58 13.41,0.99"
-       style="fill:#b98a35;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#e7c6e0;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -185,7 +185,7 @@
        id="TX_Winkler"
        class="shp1"
        d="m 96.24,137.98 6.69,0.53 -0.93,12.99 -13.41,-0.99 0.84,-10.44 1.49,0.12 1.3,0.09 1.78,0.14 1.43,0.11 0.62,0.05 0.19,-2.6"
-       style="fill:#b98a35;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#199268;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -193,7 +193,7 @@
        id="TX_Loving"
        class="shp1"
        d="m 72.92,138.76 6.49,0.53 10.02,0.78 -0.84,10.44 -7.18,-0.58 -0.54,-1.19 -1.26,-1.82 -0.25,-0.05 -0.5,0.1 -0.02,0.06 -0.06,0.05 -0.24,0.02 -0.55,-0.13 -0.2,-0.26 -3.38,-4.86 -1.49,-3.09"
-       style="fill:#b98a35;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#e7c6e0;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -201,7 +201,7 @@
        id="TX_Howard"
        class="shp10"
        d="m 144.67,127.96 -0.96,13.09 -2.03,-0.12 -10.87,-0.63 0.94,-13.12 z"
-       style="fill:#d75d5d;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffc8cd;fill-opacity:1;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\james\Documents\Election Map Stuff\1948 Primary Runoff.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
